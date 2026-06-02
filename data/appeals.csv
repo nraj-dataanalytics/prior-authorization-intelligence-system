@@ -1,0 +1,176 @@
+appeal_id,request_id,appeal_date,appeal_decision_date,appeal_decision_days,appeal_outcome,reason_overturned,additional_documentation_submitted,final_status_after_appeal
+APP-00001,PAR-005405,2023-04-07,2023-04-21,14,Overturned,Peer-to-Peer Review Changed Decision,True,Approved
+APP-00002,PAR-018453,2024-10-05,2024-10-25,20,Overturned,Peer-to-Peer Review Changed Decision,False,Approved
+APP-00003,PAR-017331,2024-07-28,2024-08-19,22,Upheld,,True,Denied
+APP-00004,PAR-007708,2023-03-28,2023-04-24,27,Overturned,Clinical Criteria Re-evaluated,True,Approved
+APP-00005,PAR-002197,2023-05-27,2023-06-09,13,Upheld,,False,Denied
+APP-00006,PAR-002664,2023-05-11,2023-06-10,30,Overturned,Clinical Criteria Re-evaluated,True,Approved
+APP-00007,PAR-023984,2024-12-08,2024-12-31,23,Overturned,Additional Documentation Resolved Issue,False,Approved
+APP-00008,PAR-017037,2025-01-18,2025-02-15,28,Partially Overturned,Peer-to-Peer Review Changed Decision,False,Approved
+APP-00009,PAR-012376,2024-08-30,2024-09-20,21,Upheld,,False,Denied
+APP-00010,PAR-004408,2023-04-25,2023-05-11,16,Upheld,,False,Denied
+APP-00011,PAR-004159,2023-01-07,2023-01-15,8,Overturned,Clinical Criteria Re-evaluated,True,Approved
+APP-00012,PAR-010868,2023-05-19,2023-05-27,8,Overturned,Peer-to-Peer Review Changed Decision,True,Approved
+APP-00013,PAR-007595,2024-01-07,2024-01-29,22,Overturned,Additional Documentation Resolved Issue,True,Approved
+APP-00014,PAR-022209,2024-02-17,2024-02-28,11,Upheld,,False,Denied
+APP-00015,PAR-011917,2025-01-04,2025-01-17,13,Partially Overturned,Additional Documentation Resolved Issue,True,Approved
+APP-00016,PAR-020830,2024-09-11,2024-09-21,10,Overturned,Additional Documentation Resolved Issue,False,Approved
+APP-00017,PAR-023772,2024-05-13,2024-06-04,22,Overturned,Clinical Criteria Re-evaluated,False,Approved
+APP-00018,PAR-011094,2023-09-25,2023-10-12,17,Upheld,,False,Denied
+APP-00019,PAR-016923,2024-11-09,2024-11-16,7,Overturned,Peer-to-Peer Review Changed Decision,False,Approved
+APP-00020,PAR-010396,2023-12-29,2024-01-13,15,Upheld,,False,Denied
+APP-00021,PAR-019292,2024-10-09,2024-10-23,14,Upheld,,False,Denied
+APP-00022,PAR-017310,2024-10-22,2024-11-15,24,Overturned,Clinical Criteria Re-evaluated,False,Approved
+APP-00023,PAR-022015,2024-03-04,2024-03-24,20,Overturned,Administrative Error Corrected,False,Approved
+APP-00024,PAR-018500,2024-04-09,2024-05-02,23,Overturned,Additional Documentation Resolved Issue,True,Approved
+APP-00025,PAR-022476,2024-11-29,2024-12-15,16,Partially Overturned,Peer-to-Peer Review Changed Decision,True,Approved
+APP-00026,PAR-023316,2024-10-11,2024-10-29,18,Upheld,,False,Denied
+APP-00027,PAR-000552,2023-11-15,2023-12-11,26,Overturned,Peer-to-Peer Review Changed Decision,True,Approved
+APP-00028,PAR-019601,2024-10-04,2024-10-11,7,Upheld,,False,Denied
+APP-00029,PAR-001680,2023-08-19,2023-09-10,22,Overturned,Clinical Criteria Re-evaluated,True,Approved
+APP-00030,PAR-011432,2023-10-16,2023-11-11,26,Overturned,Clinical Criteria Re-evaluated,True,Approved
+APP-00031,PAR-023299,2024-11-18,2024-11-30,12,Overturned,Additional Documentation Resolved Issue,True,Approved
+APP-00032,PAR-002005,2023-04-12,2023-04-30,18,Upheld,,False,Denied
+APP-00033,PAR-011399,2023-10-26,2023-11-06,11,Overturned,Additional Documentation Resolved Issue,False,Approved
+APP-00034,PAR-002966,2023-05-27,2023-06-04,8,Upheld,,False,Denied
+APP-00035,PAR-007159,2023-06-11,2023-06-21,10,Upheld,,False,Denied
+APP-00036,PAR-016371,2024-05-20,2024-05-25,5,Upheld,,False,Denied
+APP-00037,PAR-000732,2023-03-07,2023-03-29,22,Partially Overturned,Peer-to-Peer Review Changed Decision,False,Approved
+APP-00038,PAR-001138,2023-05-08,2023-06-02,25,Overturned,Additional Documentation Resolved Issue,True,Approved
+APP-00039,PAR-016883,2024-02-15,2024-03-12,26,Overturned,Additional Documentation Resolved Issue,False,Approved
+APP-00040,PAR-024408,2024-10-11,2024-10-19,8,Partially Overturned,Additional Documentation Resolved Issue,True,Approved
+APP-00041,PAR-017495,2024-05-05,2024-05-26,21,Partially Overturned,Peer-to-Peer Review Changed Decision,True,Approved
+APP-00042,PAR-008716,2023-09-10,2023-09-29,19,Upheld,,False,Denied
+APP-00043,PAR-020637,2024-07-17,2024-08-03,17,Overturned,Clinical Criteria Re-evaluated,True,Approved
+APP-00044,PAR-019153,2024-02-07,2024-02-19,12,Partially Overturned,Peer-to-Peer Review Changed Decision,True,Approved
+APP-00045,PAR-017824,2024-07-05,2024-07-25,20,Partially Overturned,Additional Documentation Resolved Issue,False,Approved
+APP-00046,PAR-012120,2024-06-16,2024-07-16,30,Overturned,Peer-to-Peer Review Changed Decision,True,Approved
+APP-00047,PAR-018075,2024-05-21,2024-06-19,29,Overturned,Clinical Criteria Re-evaluated,True,Approved
+APP-00048,PAR-016829,2024-07-23,2024-08-06,14,Overturned,Clinical Criteria Re-evaluated,True,Approved
+APP-00049,PAR-016418,2024-09-25,2024-10-16,21,Overturned,Additional Documentation Resolved Issue,True,Approved
+APP-00050,PAR-005126,2023-09-27,2023-10-09,12,Upheld,,False,Denied
+APP-00051,PAR-011982,2024-08-14,2024-08-29,15,Overturned,Clinical Criteria Re-evaluated,False,Approved
+APP-00052,PAR-001832,2023-11-01,2023-11-25,24,Overturned,Additional Documentation Resolved Issue,True,Approved
+APP-00053,PAR-022398,2024-07-01,2024-07-12,11,Overturned,Additional Documentation Resolved Issue,False,Approved
+APP-00054,PAR-002425,2023-05-06,2023-05-20,14,Overturned,Additional Documentation Resolved Issue,True,Approved
+APP-00055,PAR-009321,2023-11-08,2023-11-24,16,Overturned,Additional Documentation Resolved Issue,True,Approved
+APP-00056,PAR-000953,2024-01-16,2024-01-27,11,Overturned,Additional Documentation Resolved Issue,True,Approved
+APP-00057,PAR-024322,2024-03-18,2024-04-06,19,Overturned,Additional Documentation Resolved Issue,True,Approved
+APP-00058,PAR-022599,2024-09-27,2024-10-15,18,Overturned,Additional Documentation Resolved Issue,True,Approved
+APP-00059,PAR-017716,2024-10-02,2024-10-28,26,Partially Overturned,Peer-to-Peer Review Changed Decision,True,Approved
+APP-00060,PAR-021100,2024-06-27,2024-07-17,20,Overturned,Clinical Criteria Re-evaluated,False,Approved
+APP-00061,PAR-010897,2023-12-07,2023-12-28,21,Upheld,,False,Denied
+APP-00062,PAR-020992,2024-12-15,2024-12-27,12,Upheld,,True,Denied
+APP-00063,PAR-006003,2023-11-11,2023-11-20,9,Overturned,Clinical Criteria Re-evaluated,True,Approved
+APP-00064,PAR-003870,2023-09-04,2023-09-19,15,Overturned,Additional Documentation Resolved Issue,True,Approved
+APP-00065,PAR-020100,2024-09-27,2024-10-16,19,Overturned,Administrative Error Corrected,True,Approved
+APP-00066,PAR-006948,2023-07-04,2023-07-30,26,Overturned,Peer-to-Peer Review Changed Decision,True,Approved
+APP-00067,PAR-003841,2023-11-20,2023-12-03,13,Partially Overturned,Administrative Error Corrected,True,Approved
+APP-00068,PAR-024488,2024-11-19,2024-12-04,15,Overturned,Additional Documentation Resolved Issue,False,Approved
+APP-00069,PAR-013852,2024-07-25,2024-08-22,28,Overturned,Additional Documentation Resolved Issue,False,Approved
+APP-00070,PAR-017050,2024-10-22,2024-11-11,20,Overturned,Additional Documentation Resolved Issue,True,Approved
+APP-00071,PAR-011028,2023-07-29,2023-08-14,16,Overturned,Additional Documentation Resolved Issue,False,Approved
+APP-00072,PAR-013058,2024-11-06,2024-11-13,7,Overturned,Additional Documentation Resolved Issue,True,Approved
+APP-00073,PAR-005362,2023-08-30,2023-09-12,13,Overturned,Peer-to-Peer Review Changed Decision,True,Approved
+APP-00074,PAR-020489,2024-10-14,2024-10-30,16,Overturned,Additional Documentation Resolved Issue,True,Approved
+APP-00075,PAR-019762,2024-08-04,2024-08-19,15,Overturned,Additional Documentation Resolved Issue,False,Approved
+APP-00076,PAR-007413,2024-01-11,2024-02-03,23,Upheld,,False,Denied
+APP-00077,PAR-006169,2023-09-22,2023-10-16,24,Overturned,Clinical Criteria Re-evaluated,True,Approved
+APP-00078,PAR-001337,2023-12-23,2024-01-22,30,Partially Overturned,Peer-to-Peer Review Changed Decision,True,Approved
+APP-00079,PAR-016456,2024-09-10,2024-09-24,14,Overturned,Additional Documentation Resolved Issue,False,Approved
+APP-00080,PAR-019093,2024-08-20,2024-09-11,22,Upheld,,False,Denied
+APP-00081,PAR-011111,2023-05-14,2023-05-21,7,Overturned,Additional Documentation Resolved Issue,False,Approved
+APP-00082,PAR-020109,2024-08-29,2024-09-08,10,Overturned,Additional Documentation Resolved Issue,False,Approved
+APP-00083,PAR-011574,2023-07-20,2023-08-02,13,Overturned,Clinical Criteria Re-evaluated,True,Approved
+APP-00084,PAR-015021,2025-01-30,2025-02-18,19,Upheld,,False,Denied
+APP-00085,PAR-019805,2024-03-30,2024-04-15,16,Overturned,Clinical Criteria Re-evaluated,False,Approved
+APP-00086,PAR-021733,2024-05-19,2024-06-11,23,Partially Overturned,Peer-to-Peer Review Changed Decision,True,Approved
+APP-00087,PAR-020033,2024-03-28,2024-04-25,28,Overturned,Additional Documentation Resolved Issue,True,Approved
+APP-00088,PAR-017427,2024-03-22,2024-03-28,6,Overturned,Clinical Criteria Re-evaluated,False,Approved
+APP-00089,PAR-001276,2024-01-09,2024-01-19,10,Overturned,Administrative Error Corrected,False,Approved
+APP-00090,PAR-020543,2024-10-15,2024-10-23,8,Overturned,Additional Documentation Resolved Issue,True,Approved
+APP-00091,PAR-018755,2024-07-25,2024-08-04,10,Overturned,Clinical Criteria Re-evaluated,True,Approved
+APP-00092,PAR-011153,2023-06-18,2023-06-23,5,Upheld,,True,Denied
+APP-00093,PAR-007392,2023-10-19,2023-10-30,11,Overturned,Clinical Criteria Re-evaluated,True,Approved
+APP-00094,PAR-022497,2024-03-24,2024-04-07,14,Overturned,Clinical Criteria Re-evaluated,True,Approved
+APP-00095,PAR-007996,2023-07-06,2023-08-04,29,Partially Overturned,Clinical Criteria Re-evaluated,False,Approved
+APP-00096,PAR-024205,2024-06-08,2024-06-29,21,Overturned,Clinical Criteria Re-evaluated,False,Approved
+APP-00097,PAR-019990,2024-02-28,2024-03-13,14,Upheld,,True,Denied
+APP-00098,PAR-009892,2023-07-10,2023-07-25,15,Partially Overturned,Additional Documentation Resolved Issue,True,Approved
+APP-00099,PAR-020298,2024-06-06,2024-06-15,9,Overturned,Peer-to-Peer Review Changed Decision,True,Approved
+APP-00100,PAR-010561,2023-07-29,2023-08-04,6,Overturned,Additional Documentation Resolved Issue,True,Approved
+APP-00101,PAR-021194,2024-03-02,2024-03-21,19,Overturned,Peer-to-Peer Review Changed Decision,True,Approved
+APP-00102,PAR-015925,2024-06-27,2024-07-16,19,Partially Overturned,Clinical Criteria Re-evaluated,True,Approved
+APP-00103,PAR-015520,2024-02-13,2024-02-19,6,Overturned,Additional Documentation Resolved Issue,True,Approved
+APP-00104,PAR-022742,2024-10-07,2024-10-30,23,Overturned,Clinical Criteria Re-evaluated,True,Approved
+APP-00105,PAR-020537,2024-08-26,2024-09-01,6,Upheld,,False,Denied
+APP-00106,PAR-020652,2024-03-15,2024-03-21,6,Upheld,,True,Denied
+APP-00107,PAR-021957,2024-05-22,2024-06-05,14,Upheld,,False,Denied
+APP-00108,PAR-024550,2024-11-20,2024-12-06,16,Partially Overturned,Additional Documentation Resolved Issue,True,Approved
+APP-00109,PAR-024086,2024-08-03,2024-08-15,12,Overturned,Additional Documentation Resolved Issue,True,Approved
+APP-00110,PAR-013329,2024-11-23,2024-11-29,6,Partially Overturned,Clinical Criteria Re-evaluated,True,Approved
+APP-00111,PAR-010195,2023-12-29,2024-01-24,26,Overturned,Clinical Criteria Re-evaluated,True,Approved
+APP-00112,PAR-020386,2024-04-18,2024-05-08,20,Overturned,Clinical Criteria Re-evaluated,False,Approved
+APP-00113,PAR-019361,2024-12-31,2025-01-10,10,Overturned,Additional Documentation Resolved Issue,True,Approved
+APP-00114,PAR-018727,2024-11-14,2024-11-28,14,Overturned,Peer-to-Peer Review Changed Decision,True,Approved
+APP-00115,PAR-012616,2024-11-02,2024-11-29,27,Overturned,Additional Documentation Resolved Issue,True,Approved
+APP-00116,PAR-011558,2023-09-21,2023-10-04,13,Partially Overturned,Administrative Error Corrected,True,Approved
+APP-00117,PAR-022989,2024-03-17,2024-04-16,30,Overturned,Additional Documentation Resolved Issue,False,Approved
+APP-00118,PAR-014626,2024-08-03,2024-09-01,29,Overturned,Peer-to-Peer Review Changed Decision,True,Approved
+APP-00119,PAR-020748,2024-08-07,2024-08-13,6,Upheld,,False,Denied
+APP-00120,PAR-024771,2024-09-16,2024-10-15,29,Overturned,Clinical Criteria Re-evaluated,True,Approved
+APP-00121,PAR-013599,2024-03-06,2024-03-20,14,Overturned,Clinical Criteria Re-evaluated,True,Approved
+APP-00122,PAR-020462,2024-06-13,2024-06-18,5,Overturned,Clinical Criteria Re-evaluated,True,Approved
+APP-00123,PAR-019312,2024-01-31,2024-02-12,12,Overturned,Peer-to-Peer Review Changed Decision,True,Approved
+APP-00124,PAR-015597,2024-02-27,2024-03-24,26,Overturned,Additional Documentation Resolved Issue,True,Approved
+APP-00125,PAR-017271,2024-05-05,2024-05-16,11,Overturned,Clinical Criteria Re-evaluated,True,Approved
+APP-00126,PAR-019116,2024-07-27,2024-08-19,23,Upheld,,False,Denied
+APP-00127,PAR-011224,2023-12-19,2023-12-29,10,Overturned,Additional Documentation Resolved Issue,True,Approved
+APP-00128,PAR-014803,2025-01-29,2025-02-18,20,Partially Overturned,Additional Documentation Resolved Issue,True,Approved
+APP-00129,PAR-023615,2024-08-01,2024-08-09,8,Partially Overturned,Administrative Error Corrected,True,Approved
+APP-00130,PAR-024814,2024-12-29,2025-01-09,11,Overturned,Additional Documentation Resolved Issue,True,Approved
+APP-00131,PAR-021673,2024-08-20,2024-08-28,8,Overturned,Clinical Criteria Re-evaluated,True,Approved
+APP-00132,PAR-005103,2023-07-02,2023-07-13,11,Overturned,Additional Documentation Resolved Issue,True,Approved
+APP-00133,PAR-014551,2024-04-22,2024-04-28,6,Overturned,Additional Documentation Resolved Issue,False,Approved
+APP-00134,PAR-005390,2024-01-02,2024-02-01,30,Upheld,,False,Denied
+APP-00135,PAR-015623,2024-03-11,2024-03-23,12,Overturned,Peer-to-Peer Review Changed Decision,True,Approved
+APP-00136,PAR-024882,2024-12-17,2025-01-16,30,Overturned,Peer-to-Peer Review Changed Decision,True,Approved
+APP-00137,PAR-021325,2024-07-16,2024-07-30,14,Overturned,Administrative Error Corrected,True,Approved
+APP-00138,PAR-001278,2023-12-10,2023-12-22,12,Overturned,Additional Documentation Resolved Issue,False,Approved
+APP-00139,PAR-006067,2023-12-18,2024-01-16,29,Partially Overturned,Peer-to-Peer Review Changed Decision,False,Approved
+APP-00140,PAR-006506,2023-04-15,2023-04-24,9,Upheld,,False,Denied
+APP-00141,PAR-005804,2023-11-11,2023-12-06,25,Upheld,,False,Denied
+APP-00142,PAR-024563,2024-03-11,2024-03-21,10,Overturned,Administrative Error Corrected,True,Approved
+APP-00143,PAR-022937,2024-04-10,2024-05-08,28,Overturned,Additional Documentation Resolved Issue,False,Approved
+APP-00144,PAR-014608,2024-05-10,2024-05-26,16,Upheld,,True,Denied
+APP-00145,PAR-003233,2023-05-25,2023-06-06,12,Partially Overturned,Peer-to-Peer Review Changed Decision,True,Approved
+APP-00146,PAR-005339,2023-08-22,2023-09-16,25,Overturned,Additional Documentation Resolved Issue,False,Approved
+APP-00147,PAR-019604,2024-08-21,2024-09-18,28,Overturned,Clinical Criteria Re-evaluated,False,Approved
+APP-00148,PAR-003840,2023-05-27,2023-06-01,5,Overturned,Clinical Criteria Re-evaluated,True,Approved
+APP-00149,PAR-001994,2023-10-04,2023-10-14,10,Overturned,Clinical Criteria Re-evaluated,True,Approved
+APP-00150,PAR-011366,2023-09-09,2023-10-03,24,Overturned,Additional Documentation Resolved Issue,True,Approved
+APP-00151,PAR-011517,2023-05-30,2023-06-17,18,Overturned,Peer-to-Peer Review Changed Decision,False,Approved
+APP-00152,PAR-018832,2024-02-17,2024-03-03,15,Partially Overturned,Clinical Criteria Re-evaluated,False,Approved
+APP-00153,PAR-021423,2024-12-22,2025-01-20,29,Overturned,Additional Documentation Resolved Issue,True,Approved
+APP-00154,PAR-002266,2023-03-27,2023-04-17,21,Partially Overturned,Additional Documentation Resolved Issue,False,Approved
+APP-00155,PAR-024182,2024-02-02,2024-02-25,23,Upheld,,False,Denied
+APP-00156,PAR-001822,2023-09-09,2023-10-04,25,Overturned,Clinical Criteria Re-evaluated,True,Approved
+APP-00157,PAR-019265,2024-10-02,2024-10-07,5,Partially Overturned,Peer-to-Peer Review Changed Decision,True,Approved
+APP-00158,PAR-001921,2023-07-10,2023-07-29,19,Partially Overturned,Peer-to-Peer Review Changed Decision,True,Approved
+APP-00159,PAR-000572,2023-03-13,2023-03-25,12,Overturned,Additional Documentation Resolved Issue,False,Approved
+APP-00160,PAR-019339,2024-08-24,2024-09-23,30,Overturned,Additional Documentation Resolved Issue,True,Approved
+APP-00161,PAR-017624,2025-01-04,2025-01-22,18,Upheld,,False,Denied
+APP-00162,PAR-017480,2024-11-24,2024-12-01,7,Overturned,Clinical Criteria Re-evaluated,False,Approved
+APP-00163,PAR-006812,2023-12-05,2024-01-03,29,Overturned,Additional Documentation Resolved Issue,True,Approved
+APP-00164,PAR-023740,2024-04-20,2024-05-15,25,Overturned,Additional Documentation Resolved Issue,True,Approved
+APP-00165,PAR-023336,2024-12-10,2024-12-30,20,Upheld,,False,Denied
+APP-00166,PAR-001862,2023-07-02,2023-07-09,7,Overturned,Additional Documentation Resolved Issue,False,Approved
+APP-00167,PAR-020050,2024-08-10,2024-08-30,20,Overturned,Peer-to-Peer Review Changed Decision,True,Approved
+APP-00168,PAR-001419,2024-01-21,2024-02-09,19,Upheld,,False,Denied
+APP-00169,PAR-019177,2024-11-14,2024-12-04,20,Partially Overturned,Clinical Criteria Re-evaluated,False,Approved
+APP-00170,PAR-004349,2023-09-12,2023-10-05,23,Overturned,Clinical Criteria Re-evaluated,True,Approved
+APP-00171,PAR-023351,2024-09-16,2024-09-27,11,Overturned,Peer-to-Peer Review Changed Decision,True,Approved
+APP-00172,PAR-010128,2023-07-13,2023-07-29,16,Overturned,Clinical Criteria Re-evaluated,True,Approved
+APP-00173,PAR-003542,2023-09-07,2023-10-07,30,Overturned,Additional Documentation Resolved Issue,True,Approved
+APP-00174,PAR-014517,2024-07-13,2024-08-01,19,Overturned,Clinical Criteria Re-evaluated,True,Approved
+APP-00175,PAR-008138,2023-02-03,2023-02-26,23,Overturned,Clinical Criteria Re-evaluated,False,Approved

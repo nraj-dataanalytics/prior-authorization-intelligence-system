@@ -1,0 +1,1001 @@
+provider_id,provider_type,region,network_status,prior_auth_volume_band,avg_incomplete_submission_rate,avg_response_time_days,provider_risk_segment
+PRV-0001,DME Supplier,Southwest,In-Network,Medium (50-199/yr),0.25,9.19,Moderate-Risk
+PRV-0002,Primary Care,Midwest,In-Network,Medium (50-199/yr),0.267,4.9,Moderate-Risk
+PRV-0003,Surgery Center,Northeast,In-Network,Medium (50-199/yr),0.157,4.73,Moderate-Risk
+PRV-0004,Imaging Center,Southeast,Out-of-Network,Medium (50-199/yr),0.083,8.12,Low-Risk
+PRV-0005,Imaging Center,Southwest,In-Network,Low (1-49/yr),0.192,8.45,Moderate-Risk
+PRV-0006,Hospital,Southeast,Out-of-Network,Very High (500+/yr),0.154,2.19,Moderate-Risk
+PRV-0007,Behavioral Health,Southeast,In-Network,Very High (500+/yr),0.155,3.3,Moderate-Risk
+PRV-0008,Primary Care,Southeast,In-Network,Medium (50-199/yr),0.227,5.85,Moderate-Risk
+PRV-0009,Hospital,West,In-Network,Very High (500+/yr),0.108,6.97,Low-Risk
+PRV-0010,Primary Care,Southeast,In-Network,High (200-499/yr),0.298,7.71,Moderate-Risk
+PRV-0011,Imaging Center,Southeast,In-Network,High (200-499/yr),0.216,6.99,Moderate-Risk
+PRV-0012,Specialist,West,In-Network,High (200-499/yr),0.17,9.7,Moderate-Risk
+PRV-0013,Imaging Center,Southwest,In-Network,Low (1-49/yr),0.208,6.76,Moderate-Risk
+PRV-0014,Home Health Agency,Southeast,In-Network,High (200-499/yr),0.186,6.15,Moderate-Risk
+PRV-0015,Hospital,Southeast,In-Network,Very High (500+/yr),0.051,7.61,Low-Risk
+PRV-0016,Specialist,Midwest,In-Network,High (200-499/yr),0.191,2.66,Moderate-Risk
+PRV-0017,Surgery Center,West,In-Network,Medium (50-199/yr),0.209,7.6,Moderate-Risk
+PRV-0018,Primary Care,Southeast,Out-of-Network,High (200-499/yr),0.223,8.53,Moderate-Risk
+PRV-0019,Specialist,Southeast,In-Network,Very High (500+/yr),0.119,0.96,Low-Risk
+PRV-0020,Primary Care,Midwest,In-Network,Medium (50-199/yr),0.273,8.88,Moderate-Risk
+PRV-0021,Surgery Center,Southeast,In-Network,Medium (50-199/yr),0.204,9.46,Moderate-Risk
+PRV-0022,DME Supplier,Northeast,In-Network,Medium (50-199/yr),0.328,2.95,High-Risk
+PRV-0023,Specialist,Southeast,In-Network,Medium (50-199/yr),0.204,9.02,Moderate-Risk
+PRV-0024,Specialist,Midwest,In-Network,Medium (50-199/yr),0.101,9.81,Low-Risk
+PRV-0025,DME Supplier,Southeast,In-Network,Medium (50-199/yr),0.436,4.89,High-Risk
+PRV-0026,Post-Acute Facility,Southeast,In-Network,Very High (500+/yr),0.239,9.65,Moderate-Risk
+PRV-0027,Imaging Center,Southwest,In-Network,Very High (500+/yr),0.161,6.58,Moderate-Risk
+PRV-0028,Post-Acute Facility,Southwest,In-Network,Medium (50-199/yr),0.171,9.94,Moderate-Risk
+PRV-0029,Specialist,Midwest,In-Network,Very High (500+/yr),0.17,6.01,Moderate-Risk
+PRV-0030,Post-Acute Facility,Southeast,In-Network,High (200-499/yr),0.158,7.25,Moderate-Risk
+PRV-0031,Imaging Center,Midwest,In-Network,Very High (500+/yr),0.088,4.58,Low-Risk
+PRV-0032,Imaging Center,Southeast,In-Network,High (200-499/yr),0.124,3.63,Low-Risk
+PRV-0033,Surgery Center,Southeast,In-Network,Medium (50-199/yr),0.192,8.33,Moderate-Risk
+PRV-0034,Behavioral Health,West,In-Network,Medium (50-199/yr),0.228,9.96,Moderate-Risk
+PRV-0035,Surgery Center,Southeast,Out-of-Network,High (200-499/yr),0.094,1.39,Low-Risk
+PRV-0036,Post-Acute Facility,Midwest,In-Network,Medium (50-199/yr),0.235,0.52,Moderate-Risk
+PRV-0037,Imaging Center,Northeast,In-Network,High (200-499/yr),0.111,7.26,Low-Risk
+PRV-0038,Hospital,Southeast,In-Network,Very High (500+/yr),0.052,3.73,Low-Risk
+PRV-0039,Home Health Agency,Midwest,In-Network,High (200-499/yr),0.217,7.77,Moderate-Risk
+PRV-0040,Home Health Agency,Southeast,In-Network,High (200-499/yr),0.336,4.86,High-Risk
+PRV-0041,Hospital,Northeast,In-Network,High (200-499/yr),0.137,1.98,Low-Risk
+PRV-0042,Imaging Center,Northeast,In-Network,Medium (50-199/yr),0.088,5.13,Low-Risk
+PRV-0043,Hospital,Northeast,In-Network,High (200-499/yr),0.153,3.89,Moderate-Risk
+PRV-0044,Hospital,Northeast,Out-of-Network,Very High (500+/yr),0.14,0.85,Low-Risk
+PRV-0045,Hospital,Southeast,In-Network,Medium (50-199/yr),0.111,9.4,Low-Risk
+PRV-0046,Primary Care,West,In-Network,High (200-499/yr),0.221,2.02,Moderate-Risk
+PRV-0047,Imaging Center,Northeast,In-Network,High (200-499/yr),0.115,5.04,Low-Risk
+PRV-0048,Primary Care,Southeast,In-Network,High (200-499/yr),0.261,4.35,Moderate-Risk
+PRV-0049,Post-Acute Facility,West,In-Network,Medium (50-199/yr),0.15,6.73,Low-Risk
+PRV-0050,Surgery Center,Southeast,In-Network,Medium (50-199/yr),0.131,2.86,Low-Risk
+PRV-0051,Specialist,West,In-Network,Medium (50-199/yr),0.146,3.66,Low-Risk
+PRV-0052,Specialist,Southeast,In-Network,High (200-499/yr),0.173,5.13,Moderate-Risk
+PRV-0053,Imaging Center,West,In-Network,Medium (50-199/yr),0.192,1.8,Moderate-Risk
+PRV-0054,Hospital,Midwest,In-Network,Very High (500+/yr),0.178,8.32,Moderate-Risk
+PRV-0055,Specialist,West,In-Network,High (200-499/yr),0.194,4.08,Moderate-Risk
+PRV-0056,Surgery Center,West,Out-of-Network,Medium (50-199/yr),0.195,5.85,Moderate-Risk
+PRV-0057,Specialist,Midwest,In-Network,Medium (50-199/yr),0.223,3.7,Moderate-Risk
+PRV-0058,Specialist,Northeast,In-Network,High (200-499/yr),0.119,9.2,Low-Risk
+PRV-0059,Specialist,Midwest,In-Network,Very High (500+/yr),0.23,1.03,Moderate-Risk
+PRV-0060,Imaging Center,Northeast,In-Network,Medium (50-199/yr),0.109,5.02,Low-Risk
+PRV-0061,Specialist,Northeast,In-Network,Medium (50-199/yr),0.121,7.02,Low-Risk
+PRV-0062,Primary Care,Midwest,In-Network,High (200-499/yr),0.267,7.54,Moderate-Risk
+PRV-0063,Specialist,Midwest,In-Network,High (200-499/yr),0.266,8.58,Moderate-Risk
+PRV-0064,Specialist,West,In-Network,Medium (50-199/yr),0.186,1.03,Moderate-Risk
+PRV-0065,Imaging Center,Midwest,In-Network,High (200-499/yr),0.204,3.16,Moderate-Risk
+PRV-0066,Imaging Center,Midwest,In-Network,Medium (50-199/yr),0.088,5.64,Low-Risk
+PRV-0067,DME Supplier,West,In-Network,High (200-499/yr),0.397,2.34,High-Risk
+PRV-0068,Specialist,Southwest,In-Network,Very High (500+/yr),0.219,1.25,Moderate-Risk
+PRV-0069,Behavioral Health,Northeast,In-Network,Medium (50-199/yr),0.187,4.45,Moderate-Risk
+PRV-0070,Hospital,Southwest,In-Network,High (200-499/yr),0.115,4.38,Low-Risk
+PRV-0071,DME Supplier,Northeast,In-Network,Medium (50-199/yr),0.304,8.39,High-Risk
+PRV-0072,Hospital,West,Out-of-Network,Very High (500+/yr),0.07,2.18,Low-Risk
+PRV-0073,Imaging Center,Southeast,In-Network,High (200-499/yr),0.143,9.11,Low-Risk
+PRV-0074,Hospital,Midwest,In-Network,Very High (500+/yr),0.107,3.52,Low-Risk
+PRV-0075,Imaging Center,Southeast,In-Network,Low (1-49/yr),0.189,6.34,Moderate-Risk
+PRV-0076,Imaging Center,Midwest,In-Network,Very High (500+/yr),0.144,5.46,Low-Risk
+PRV-0077,Primary Care,Northeast,In-Network,High (200-499/yr),0.145,7.34,Low-Risk
+PRV-0078,Surgery Center,Southeast,In-Network,Medium (50-199/yr),0.186,2.36,Moderate-Risk
+PRV-0079,Imaging Center,Northeast,In-Network,Very High (500+/yr),0.17,7.31,Moderate-Risk
+PRV-0080,Imaging Center,Midwest,Out-of-Network,Medium (50-199/yr),0.081,4.31,Low-Risk
+PRV-0081,Hospital,West,In-Network,Very High (500+/yr),0.111,1.87,Low-Risk
+PRV-0082,Imaging Center,Northeast,In-Network,Medium (50-199/yr),0.107,2.99,Low-Risk
+PRV-0083,Imaging Center,Midwest,In-Network,Very High (500+/yr),0.131,8.47,Low-Risk
+PRV-0084,Primary Care,West,In-Network,High (200-499/yr),0.135,2.99,Low-Risk
+PRV-0085,Specialist,Northeast,In-Network,Very High (500+/yr),0.179,5.39,Moderate-Risk
+PRV-0086,Primary Care,Northeast,In-Network,High (200-499/yr),0.192,5.06,Moderate-Risk
+PRV-0087,Surgery Center,West,In-Network,Medium (50-199/yr),0.181,2.65,Moderate-Risk
+PRV-0088,Hospital,Southeast,In-Network,High (200-499/yr),0.121,7.14,Low-Risk
+PRV-0089,Surgery Center,Northeast,Out-of-Network,Medium (50-199/yr),0.121,1.37,Low-Risk
+PRV-0090,Post-Acute Facility,Midwest,In-Network,Low (1-49/yr),0.223,1.51,Moderate-Risk
+PRV-0091,Imaging Center,Northeast,In-Network,High (200-499/yr),0.131,3.81,Low-Risk
+PRV-0092,Hospital,West,In-Network,Very High (500+/yr),0.112,6.99,Low-Risk
+PRV-0093,Specialist,Northeast,Out-of-Network,Very High (500+/yr),0.115,4.97,Low-Risk
+PRV-0094,Post-Acute Facility,Midwest,In-Network,High (200-499/yr),0.262,6.71,Moderate-Risk
+PRV-0095,DME Supplier,Midwest,In-Network,Low (1-49/yr),0.283,8.74,Moderate-Risk
+PRV-0096,Behavioral Health,Southwest,In-Network,Medium (50-199/yr),0.24,4.14,Moderate-Risk
+PRV-0097,Surgery Center,Midwest,In-Network,High (200-499/yr),0.166,3.17,Moderate-Risk
+PRV-0098,Hospital,Southeast,In-Network,Very High (500+/yr),0.065,9.44,Low-Risk
+PRV-0099,Primary Care,West,In-Network,Low (1-49/yr),0.273,4.86,Moderate-Risk
+PRV-0100,Primary Care,Southeast,In-Network,Medium (50-199/yr),0.23,7.64,Moderate-Risk
+PRV-0101,Primary Care,Southeast,In-Network,High (200-499/yr),0.259,7.56,Moderate-Risk
+PRV-0102,Post-Acute Facility,Midwest,In-Network,Low (1-49/yr),0.258,7.78,Moderate-Risk
+PRV-0103,Primary Care,Northeast,In-Network,High (200-499/yr),0.202,3.33,Moderate-Risk
+PRV-0104,Primary Care,Southeast,In-Network,Low (1-49/yr),0.213,5.4,Moderate-Risk
+PRV-0105,Specialist,Southeast,In-Network,Medium (50-199/yr),0.248,0.93,Moderate-Risk
+PRV-0106,Hospital,Midwest,In-Network,High (200-499/yr),0.083,4.65,Low-Risk
+PRV-0107,Specialist,Northeast,In-Network,Medium (50-199/yr),0.167,6.12,Moderate-Risk
+PRV-0108,Specialist,Northeast,In-Network,High (200-499/yr),0.121,4.03,Low-Risk
+PRV-0109,Surgery Center,Southeast,In-Network,High (200-499/yr),0.09,5.36,Low-Risk
+PRV-0110,Imaging Center,Southeast,In-Network,Medium (50-199/yr),0.219,2.81,Moderate-Risk
+PRV-0111,DME Supplier,Southeast,In-Network,Medium (50-199/yr),0.303,4.81,High-Risk
+PRV-0112,Surgery Center,West,In-Network,High (200-499/yr),0.171,7.71,Moderate-Risk
+PRV-0113,DME Supplier,Southeast,In-Network,High (200-499/yr),0.237,9.69,Moderate-Risk
+PRV-0114,Imaging Center,West,In-Network,Low (1-49/yr),0.211,8.35,Moderate-Risk
+PRV-0115,DME Supplier,Southeast,In-Network,High (200-499/yr),0.329,8.71,High-Risk
+PRV-0116,Surgery Center,Southwest,In-Network,Medium (50-199/yr),0.1,9.73,Low-Risk
+PRV-0117,Hospital,Southeast,In-Network,High (200-499/yr),0.145,2.16,Low-Risk
+PRV-0118,Specialist,Midwest,Out-of-Network,Medium (50-199/yr),0.182,6.98,Moderate-Risk
+PRV-0119,Behavioral Health,Southeast,In-Network,Low (1-49/yr),0.261,5.24,Moderate-Risk
+PRV-0120,Imaging Center,Northeast,In-Network,Medium (50-199/yr),0.193,2.22,Moderate-Risk
+PRV-0121,Hospital,West,In-Network,High (200-499/yr),0.173,6.38,Moderate-Risk
+PRV-0122,Imaging Center,Southeast,In-Network,High (200-499/yr),0.156,3.63,Moderate-Risk
+PRV-0123,Hospital,Northeast,In-Network,High (200-499/yr),0.109,1.6,Low-Risk
+PRV-0124,Surgery Center,Midwest,In-Network,High (200-499/yr),0.219,2.52,Moderate-Risk
+PRV-0125,Behavioral Health,West,In-Network,High (200-499/yr),0.267,7.11,Moderate-Risk
+PRV-0126,Hospital,Midwest,In-Network,Very High (500+/yr),0.179,9.01,Moderate-Risk
+PRV-0127,Imaging Center,Southeast,Out-of-Network,Medium (50-199/yr),0.084,3.22,Low-Risk
+PRV-0128,Hospital,West,In-Network,High (200-499/yr),0.129,1.63,Low-Risk
+PRV-0129,DME Supplier,West,In-Network,Medium (50-199/yr),0.445,1.76,High-Risk
+PRV-0130,Post-Acute Facility,West,In-Network,Medium (50-199/yr),0.276,6.74,Moderate-Risk
+PRV-0131,Hospital,Southeast,In-Network,Medium (50-199/yr),0.083,4.1,Low-Risk
+PRV-0132,Specialist,Southeast,In-Network,High (200-499/yr),0.123,2.53,Low-Risk
+PRV-0133,Hospital,West,In-Network,Very High (500+/yr),0.138,9.13,Low-Risk
+PRV-0134,Specialist,Southeast,In-Network,High (200-499/yr),0.174,8.81,Moderate-Risk
+PRV-0135,Hospital,Northeast,In-Network,Very High (500+/yr),0.162,2.49,Moderate-Risk
+PRV-0136,Surgery Center,Midwest,In-Network,Very High (500+/yr),0.149,7.7,Low-Risk
+PRV-0137,Specialist,Midwest,In-Network,Low (1-49/yr),0.171,6.41,Moderate-Risk
+PRV-0138,Imaging Center,Southeast,In-Network,Medium (50-199/yr),0.152,8.42,Moderate-Risk
+PRV-0139,Specialist,West,In-Network,Medium (50-199/yr),0.267,2.17,Moderate-Risk
+PRV-0140,Specialist,Midwest,In-Network,Very High (500+/yr),0.269,4.61,Moderate-Risk
+PRV-0141,Specialist,Midwest,In-Network,Very High (500+/yr),0.267,9.26,Moderate-Risk
+PRV-0142,Surgery Center,Midwest,In-Network,Medium (50-199/yr),0.187,7.08,Moderate-Risk
+PRV-0143,Imaging Center,Southeast,In-Network,Very High (500+/yr),0.12,1.25,Low-Risk
+PRV-0144,Specialist,Midwest,In-Network,Very High (500+/yr),0.221,4.87,Moderate-Risk
+PRV-0145,Primary Care,Southwest,Out-of-Network,Medium (50-199/yr),0.256,2.48,Moderate-Risk
+PRV-0146,Hospital,Southeast,In-Network,High (200-499/yr),0.1,9.33,Low-Risk
+PRV-0147,Primary Care,West,In-Network,Low (1-49/yr),0.218,7.89,Moderate-Risk
+PRV-0148,Specialist,Southeast,In-Network,High (200-499/yr),0.126,2.81,Low-Risk
+PRV-0149,Specialist,Midwest,In-Network,High (200-499/yr),0.279,4.66,Moderate-Risk
+PRV-0150,Specialist,Midwest,In-Network,High (200-499/yr),0.234,2.61,Moderate-Risk
+PRV-0151,Surgery Center,Southwest,Out-of-Network,Very High (500+/yr),0.129,7.19,Low-Risk
+PRV-0152,Imaging Center,Northeast,In-Network,High (200-499/yr),0.128,8.66,Low-Risk
+PRV-0153,DME Supplier,Southwest,In-Network,Medium (50-199/yr),0.313,3.64,High-Risk
+PRV-0154,Hospital,Southeast,Out-of-Network,Very High (500+/yr),0.096,7.87,Low-Risk
+PRV-0155,Specialist,Northeast,In-Network,Very High (500+/yr),0.214,9.28,Moderate-Risk
+PRV-0156,Hospital,Northeast,In-Network,High (200-499/yr),0.169,7.75,Moderate-Risk
+PRV-0157,Home Health Agency,West,In-Network,Medium (50-199/yr),0.216,7.4,Moderate-Risk
+PRV-0158,Surgery Center,Southeast,Out-of-Network,High (200-499/yr),0.111,4.85,Low-Risk
+PRV-0159,Specialist,West,In-Network,High (200-499/yr),0.119,9.57,Low-Risk
+PRV-0160,Hospital,West,In-Network,Very High (500+/yr),0.126,6.63,Low-Risk
+PRV-0161,Specialist,West,In-Network,High (200-499/yr),0.17,0.6,Moderate-Risk
+PRV-0162,Home Health Agency,West,In-Network,High (200-499/yr),0.206,4.6,Moderate-Risk
+PRV-0163,Primary Care,Midwest,In-Network,High (200-499/yr),0.157,7.05,Moderate-Risk
+PRV-0164,Hospital,Southeast,In-Network,High (200-499/yr),0.128,0.78,Low-Risk
+PRV-0165,Surgery Center,Midwest,In-Network,Medium (50-199/yr),0.139,3.47,Low-Risk
+PRV-0166,DME Supplier,Northeast,In-Network,Medium (50-199/yr),0.369,5.14,High-Risk
+PRV-0167,Specialist,Northeast,In-Network,Medium (50-199/yr),0.2,7.32,Moderate-Risk
+PRV-0168,Specialist,Northeast,In-Network,High (200-499/yr),0.272,7.35,Moderate-Risk
+PRV-0169,Imaging Center,Northeast,In-Network,High (200-499/yr),0.093,3.88,Low-Risk
+PRV-0170,Imaging Center,Midwest,Out-of-Network,Very High (500+/yr),0.087,0.86,Low-Risk
+PRV-0171,Surgery Center,Southeast,In-Network,High (200-499/yr),0.213,8.46,Moderate-Risk
+PRV-0172,Specialist,Midwest,In-Network,Low (1-49/yr),0.173,2.07,Moderate-Risk
+PRV-0173,Primary Care,Southeast,In-Network,Medium (50-199/yr),0.133,6.77,Low-Risk
+PRV-0174,Hospital,West,In-Network,Very High (500+/yr),0.141,5.2,Low-Risk
+PRV-0175,Imaging Center,Southeast,Out-of-Network,Medium (50-199/yr),0.166,3.58,Moderate-Risk
+PRV-0176,Surgery Center,Midwest,In-Network,High (200-499/yr),0.176,4.71,Moderate-Risk
+PRV-0177,Hospital,West,Out-of-Network,Very High (500+/yr),0.097,5.81,Low-Risk
+PRV-0178,Surgery Center,Northeast,In-Network,High (200-499/yr),0.212,9.02,Moderate-Risk
+PRV-0179,Specialist,West,In-Network,Very High (500+/yr),0.268,6.63,Moderate-Risk
+PRV-0180,Imaging Center,Midwest,In-Network,Low (1-49/yr),0.188,1.14,Moderate-Risk
+PRV-0181,Surgery Center,West,In-Network,Medium (50-199/yr),0.106,7.25,Low-Risk
+PRV-0182,Hospital,West,In-Network,High (200-499/yr),0.058,5.0,Low-Risk
+PRV-0183,Hospital,Southeast,In-Network,High (200-499/yr),0.131,7.86,Low-Risk
+PRV-0184,Specialist,Midwest,In-Network,Medium (50-199/yr),0.271,2.8,Moderate-Risk
+PRV-0185,Primary Care,West,In-Network,Medium (50-199/yr),0.136,3.21,Low-Risk
+PRV-0186,Primary Care,Southwest,In-Network,Medium (50-199/yr),0.151,6.62,Moderate-Risk
+PRV-0187,Primary Care,Northeast,In-Network,Medium (50-199/yr),0.124,8.32,Low-Risk
+PRV-0188,Post-Acute Facility,Northeast,In-Network,Very High (500+/yr),0.185,3.51,Moderate-Risk
+PRV-0189,Imaging Center,West,In-Network,Medium (50-199/yr),0.179,2.9,Moderate-Risk
+PRV-0190,Specialist,Northeast,In-Network,Medium (50-199/yr),0.264,0.58,Moderate-Risk
+PRV-0191,Imaging Center,West,In-Network,Very High (500+/yr),0.163,3.37,Moderate-Risk
+PRV-0192,Home Health Agency,Midwest,In-Network,Medium (50-199/yr),0.345,1.15,High-Risk
+PRV-0193,Specialist,Midwest,Out-of-Network,High (200-499/yr),0.238,4.56,Moderate-Risk
+PRV-0194,Hospital,West,In-Network,High (200-499/yr),0.074,1.61,Low-Risk
+PRV-0195,Specialist,Midwest,In-Network,Low (1-49/yr),0.13,1.29,Low-Risk
+PRV-0196,Specialist,Southeast,In-Network,High (200-499/yr),0.117,6.37,Low-Risk
+PRV-0197,Home Health Agency,Midwest,In-Network,Medium (50-199/yr),0.16,4.11,Moderate-Risk
+PRV-0198,Hospital,Northeast,In-Network,High (200-499/yr),0.155,6.92,Moderate-Risk
+PRV-0199,DME Supplier,Midwest,In-Network,Low (1-49/yr),0.209,4.23,Moderate-Risk
+PRV-0200,Imaging Center,Southeast,In-Network,Medium (50-199/yr),0.194,7.72,Moderate-Risk
+PRV-0201,DME Supplier,West,Out-of-Network,Medium (50-199/yr),0.357,7.26,High-Risk
+PRV-0202,Surgery Center,Northeast,In-Network,High (200-499/yr),0.09,7.06,Low-Risk
+PRV-0203,Post-Acute Facility,Midwest,In-Network,Medium (50-199/yr),0.137,3.26,Low-Risk
+PRV-0204,Hospital,Midwest,In-Network,High (200-499/yr),0.163,0.72,Moderate-Risk
+PRV-0205,DME Supplier,Southeast,In-Network,Very High (500+/yr),0.262,0.76,Moderate-Risk
+PRV-0206,Imaging Center,Southwest,In-Network,High (200-499/yr),0.116,8.35,Low-Risk
+PRV-0207,Imaging Center,Southeast,In-Network,High (200-499/yr),0.129,4.86,Low-Risk
+PRV-0208,Specialist,Southeast,In-Network,High (200-499/yr),0.249,8.43,Moderate-Risk
+PRV-0209,Surgery Center,Northeast,In-Network,High (200-499/yr),0.214,8.6,Moderate-Risk
+PRV-0210,Primary Care,West,In-Network,Medium (50-199/yr),0.258,9.78,Moderate-Risk
+PRV-0211,Home Health Agency,Midwest,In-Network,High (200-499/yr),0.341,7.83,High-Risk
+PRV-0212,Specialist,Northeast,In-Network,High (200-499/yr),0.172,3.17,Moderate-Risk
+PRV-0213,Post-Acute Facility,Southeast,In-Network,Very High (500+/yr),0.275,8.68,Moderate-Risk
+PRV-0214,Specialist,Southeast,In-Network,Medium (50-199/yr),0.238,1.53,Moderate-Risk
+PRV-0215,Surgery Center,Northeast,In-Network,Low (1-49/yr),0.153,9.17,Moderate-Risk
+PRV-0216,Hospital,Southeast,In-Network,High (200-499/yr),0.056,2.55,Low-Risk
+PRV-0217,Specialist,Midwest,In-Network,Medium (50-199/yr),0.235,3.21,Moderate-Risk
+PRV-0218,Surgery Center,Midwest,In-Network,High (200-499/yr),0.177,2.81,Moderate-Risk
+PRV-0219,Hospital,Southeast,In-Network,Very High (500+/yr),0.145,8.58,Low-Risk
+PRV-0220,Hospital,Midwest,In-Network,Very High (500+/yr),0.12,3.71,Low-Risk
+PRV-0221,Hospital,Southeast,In-Network,Very High (500+/yr),0.091,8.99,Low-Risk
+PRV-0222,Home Health Agency,West,In-Network,Very High (500+/yr),0.306,2.07,High-Risk
+PRV-0223,Primary Care,West,In-Network,Medium (50-199/yr),0.197,5.15,Moderate-Risk
+PRV-0224,Hospital,Northeast,In-Network,Very High (500+/yr),0.123,0.66,Low-Risk
+PRV-0225,Hospital,Southeast,In-Network,High (200-499/yr),0.081,4.5,Low-Risk
+PRV-0226,Primary Care,West,In-Network,High (200-499/yr),0.213,4.23,Moderate-Risk
+PRV-0227,Imaging Center,Southeast,In-Network,Low (1-49/yr),0.092,3.78,Low-Risk
+PRV-0228,Specialist,Northeast,In-Network,Medium (50-199/yr),0.18,3.37,Moderate-Risk
+PRV-0229,Imaging Center,Southeast,In-Network,High (200-499/yr),0.096,4.67,Low-Risk
+PRV-0230,Imaging Center,Midwest,Out-of-Network,High (200-499/yr),0.179,1.19,Moderate-Risk
+PRV-0231,Imaging Center,West,In-Network,Medium (50-199/yr),0.097,8.84,Low-Risk
+PRV-0232,Specialist,Southwest,In-Network,Medium (50-199/yr),0.193,3.66,Moderate-Risk
+PRV-0233,Hospital,Southeast,In-Network,High (200-499/yr),0.132,7.54,Low-Risk
+PRV-0234,Imaging Center,Southeast,In-Network,High (200-499/yr),0.115,7.9,Low-Risk
+PRV-0235,DME Supplier,West,In-Network,Medium (50-199/yr),0.258,2.38,Moderate-Risk
+PRV-0236,DME Supplier,Southeast,Out-of-Network,Medium (50-199/yr),0.369,8.55,High-Risk
+PRV-0237,Hospital,Northeast,Out-of-Network,High (200-499/yr),0.103,8.59,Low-Risk
+PRV-0238,Specialist,Northeast,In-Network,High (200-499/yr),0.272,1.92,Moderate-Risk
+PRV-0239,Specialist,Southeast,In-Network,High (200-499/yr),0.194,1.69,Moderate-Risk
+PRV-0240,Specialist,Southeast,In-Network,Very High (500+/yr),0.254,2.47,Moderate-Risk
+PRV-0241,Primary Care,West,In-Network,Medium (50-199/yr),0.162,6.02,Moderate-Risk
+PRV-0242,DME Supplier,West,In-Network,Low (1-49/yr),0.358,0.78,High-Risk
+PRV-0243,Surgery Center,West,In-Network,High (200-499/yr),0.16,5.66,Moderate-Risk
+PRV-0244,Specialist,Southeast,Out-of-Network,High (200-499/yr),0.174,7.85,Moderate-Risk
+PRV-0245,Specialist,Southeast,In-Network,High (200-499/yr),0.15,8.78,Low-Risk
+PRV-0246,Home Health Agency,Midwest,In-Network,Low (1-49/yr),0.313,5.13,High-Risk
+PRV-0247,Imaging Center,West,In-Network,High (200-499/yr),0.18,8.21,Moderate-Risk
+PRV-0248,Imaging Center,Southwest,In-Network,Medium (50-199/yr),0.13,3.63,Low-Risk
+PRV-0249,Specialist,Midwest,In-Network,High (200-499/yr),0.115,7.13,Low-Risk
+PRV-0250,Hospital,Northeast,In-Network,Very High (500+/yr),0.107,0.61,Low-Risk
+PRV-0251,Hospital,West,In-Network,Very High (500+/yr),0.171,1.13,Moderate-Risk
+PRV-0252,Behavioral Health,Midwest,In-Network,Medium (50-199/yr),0.153,7.12,Moderate-Risk
+PRV-0253,Hospital,Northeast,In-Network,High (200-499/yr),0.074,2.52,Low-Risk
+PRV-0254,Specialist,Midwest,In-Network,Medium (50-199/yr),0.129,7.33,Low-Risk
+PRV-0255,Surgery Center,Northeast,In-Network,Low (1-49/yr),0.176,5.78,Moderate-Risk
+PRV-0256,Post-Acute Facility,Southeast,In-Network,High (200-499/yr),0.143,4.76,Low-Risk
+PRV-0257,Home Health Agency,West,In-Network,Medium (50-199/yr),0.298,7.89,Moderate-Risk
+PRV-0258,Post-Acute Facility,Midwest,In-Network,Medium (50-199/yr),0.174,2.15,Moderate-Risk
+PRV-0259,Surgery Center,Southeast,In-Network,Very High (500+/yr),0.169,7.85,Moderate-Risk
+PRV-0260,Primary Care,Southeast,In-Network,High (200-499/yr),0.28,2.11,Moderate-Risk
+PRV-0261,Imaging Center,Southeast,In-Network,Medium (50-199/yr),0.146,9.94,Low-Risk
+PRV-0262,Specialist,Southeast,In-Network,Very High (500+/yr),0.137,3.1,Low-Risk
+PRV-0263,Imaging Center,Northeast,In-Network,Medium (50-199/yr),0.18,1.73,Moderate-Risk
+PRV-0264,Primary Care,West,Out-of-Network,High (200-499/yr),0.297,9.62,Moderate-Risk
+PRV-0265,Surgery Center,Northeast,In-Network,High (200-499/yr),0.153,0.52,Moderate-Risk
+PRV-0266,Primary Care,Northeast,In-Network,Very High (500+/yr),0.142,4.31,Low-Risk
+PRV-0267,Hospital,Northeast,In-Network,Medium (50-199/yr),0.143,5.3,Low-Risk
+PRV-0268,Specialist,Southeast,In-Network,Medium (50-199/yr),0.204,3.37,Moderate-Risk
+PRV-0269,Post-Acute Facility,Southwest,In-Network,High (200-499/yr),0.158,5.69,Moderate-Risk
+PRV-0270,Surgery Center,Southeast,Out-of-Network,High (200-499/yr),0.127,6.86,Low-Risk
+PRV-0271,Home Health Agency,Midwest,In-Network,High (200-499/yr),0.262,1.04,Moderate-Risk
+PRV-0272,Imaging Center,Southeast,In-Network,High (200-499/yr),0.204,9.35,Moderate-Risk
+PRV-0273,Specialist,Midwest,In-Network,High (200-499/yr),0.235,9.7,Moderate-Risk
+PRV-0274,Primary Care,Midwest,In-Network,High (200-499/yr),0.193,6.83,Moderate-Risk
+PRV-0275,Hospital,Southeast,In-Network,Very High (500+/yr),0.053,2.43,Low-Risk
+PRV-0276,Behavioral Health,Southeast,In-Network,High (200-499/yr),0.253,3.42,Moderate-Risk
+PRV-0277,Primary Care,Northeast,In-Network,Low (1-49/yr),0.24,8.38,Moderate-Risk
+PRV-0278,Specialist,West,In-Network,High (200-499/yr),0.279,8.51,Moderate-Risk
+PRV-0279,Specialist,Midwest,In-Network,Medium (50-199/yr),0.108,6.5,Low-Risk
+PRV-0280,Primary Care,Southwest,In-Network,High (200-499/yr),0.195,9.42,Moderate-Risk
+PRV-0281,Specialist,West,In-Network,Very High (500+/yr),0.107,5.92,Low-Risk
+PRV-0282,DME Supplier,Southeast,In-Network,Medium (50-199/yr),0.329,7.1,High-Risk
+PRV-0283,Hospital,West,Out-of-Network,Very High (500+/yr),0.144,2.17,Low-Risk
+PRV-0284,Hospital,Southeast,In-Network,Very High (500+/yr),0.058,8.21,Low-Risk
+PRV-0285,Hospital,Southeast,In-Network,High (200-499/yr),0.107,1.35,Low-Risk
+PRV-0286,Imaging Center,West,In-Network,Medium (50-199/yr),0.102,5.03,Low-Risk
+PRV-0287,Hospital,Northeast,In-Network,Very High (500+/yr),0.162,1.76,Moderate-Risk
+PRV-0288,Specialist,Southeast,Out-of-Network,Very High (500+/yr),0.133,2.64,Low-Risk
+PRV-0289,Specialist,West,In-Network,Medium (50-199/yr),0.252,2.13,Moderate-Risk
+PRV-0290,Post-Acute Facility,Northeast,Out-of-Network,Medium (50-199/yr),0.291,7.71,Moderate-Risk
+PRV-0291,Behavioral Health,Southeast,In-Network,High (200-499/yr),0.194,7.46,Moderate-Risk
+PRV-0292,Specialist,Northeast,In-Network,High (200-499/yr),0.116,4.92,Low-Risk
+PRV-0293,Primary Care,Midwest,In-Network,Low (1-49/yr),0.186,7.72,Moderate-Risk
+PRV-0294,Imaging Center,West,In-Network,Low (1-49/yr),0.218,8.86,Moderate-Risk
+PRV-0295,Hospital,West,In-Network,High (200-499/yr),0.17,5.18,Moderate-Risk
+PRV-0296,Specialist,Midwest,In-Network,Medium (50-199/yr),0.279,4.3,Moderate-Risk
+PRV-0297,Primary Care,Northeast,In-Network,Medium (50-199/yr),0.259,8.62,Moderate-Risk
+PRV-0298,Specialist,Southwest,In-Network,Medium (50-199/yr),0.221,0.84,Moderate-Risk
+PRV-0299,Primary Care,Midwest,In-Network,High (200-499/yr),0.249,1.01,Moderate-Risk
+PRV-0300,Imaging Center,Southeast,Out-of-Network,Medium (50-199/yr),0.162,0.82,Moderate-Risk
+PRV-0301,Primary Care,Southeast,In-Network,Medium (50-199/yr),0.122,6.99,Low-Risk
+PRV-0302,Surgery Center,Southeast,In-Network,Very High (500+/yr),0.155,4.29,Moderate-Risk
+PRV-0303,Primary Care,Southeast,In-Network,Medium (50-199/yr),0.135,9.26,Low-Risk
+PRV-0304,Hospital,Midwest,In-Network,High (200-499/yr),0.078,6.45,Low-Risk
+PRV-0305,Primary Care,West,In-Network,Low (1-49/yr),0.244,4.16,Moderate-Risk
+PRV-0306,Specialist,Southeast,In-Network,High (200-499/yr),0.276,3.89,Moderate-Risk
+PRV-0307,Hospital,Southeast,In-Network,High (200-499/yr),0.158,5.62,Moderate-Risk
+PRV-0308,Specialist,Southeast,In-Network,Medium (50-199/yr),0.212,7.28,Moderate-Risk
+PRV-0309,Surgery Center,West,In-Network,High (200-499/yr),0.143,5.46,Low-Risk
+PRV-0310,Hospital,Northeast,Out-of-Network,Very High (500+/yr),0.077,2.53,Low-Risk
+PRV-0311,Primary Care,Midwest,In-Network,High (200-499/yr),0.127,9.18,Low-Risk
+PRV-0312,Surgery Center,Southeast,In-Network,Medium (50-199/yr),0.153,0.72,Moderate-Risk
+PRV-0313,Specialist,Midwest,In-Network,Medium (50-199/yr),0.207,9.66,Moderate-Risk
+PRV-0314,Primary Care,Midwest,In-Network,High (200-499/yr),0.26,0.61,Moderate-Risk
+PRV-0315,Hospital,Midwest,In-Network,Very High (500+/yr),0.164,7.79,Moderate-Risk
+PRV-0316,Hospital,Southeast,In-Network,Very High (500+/yr),0.11,8.77,Low-Risk
+PRV-0317,DME Supplier,Southeast,In-Network,Medium (50-199/yr),0.344,3.9,High-Risk
+PRV-0318,Surgery Center,Midwest,In-Network,Low (1-49/yr),0.205,1.89,Moderate-Risk
+PRV-0319,Imaging Center,Southeast,In-Network,Medium (50-199/yr),0.104,2.8,Low-Risk
+PRV-0320,Surgery Center,West,In-Network,High (200-499/yr),0.121,6.24,Low-Risk
+PRV-0321,Surgery Center,Southeast,In-Network,Medium (50-199/yr),0.208,3.54,Moderate-Risk
+PRV-0322,Primary Care,Midwest,In-Network,Medium (50-199/yr),0.195,1.21,Moderate-Risk
+PRV-0323,Specialist,Northeast,In-Network,Low (1-49/yr),0.188,0.65,Moderate-Risk
+PRV-0324,Specialist,Southeast,In-Network,High (200-499/yr),0.245,2.6,Moderate-Risk
+PRV-0325,Primary Care,Midwest,In-Network,High (200-499/yr),0.15,7.34,Low-Risk
+PRV-0326,DME Supplier,Southeast,In-Network,High (200-499/yr),0.243,3.05,Moderate-Risk
+PRV-0327,Specialist,Southeast,In-Network,High (200-499/yr),0.276,6.01,Moderate-Risk
+PRV-0328,Specialist,Southeast,In-Network,High (200-499/yr),0.102,7.41,Low-Risk
+PRV-0329,Primary Care,Northeast,In-Network,High (200-499/yr),0.157,9.28,Moderate-Risk
+PRV-0330,Hospital,Midwest,In-Network,Very High (500+/yr),0.15,4.96,Low-Risk
+PRV-0331,Hospital,Northeast,Out-of-Network,Very High (500+/yr),0.097,8.05,Low-Risk
+PRV-0332,Primary Care,Northeast,In-Network,Low (1-49/yr),0.231,4.44,Moderate-Risk
+PRV-0333,Post-Acute Facility,Southeast,Out-of-Network,High (200-499/yr),0.259,1.52,Moderate-Risk
+PRV-0334,Hospital,Midwest,In-Network,Very High (500+/yr),0.148,9.63,Low-Risk
+PRV-0335,DME Supplier,Southeast,Out-of-Network,Medium (50-199/yr),0.264,2.72,Moderate-Risk
+PRV-0336,Hospital,Southwest,Out-of-Network,Medium (50-199/yr),0.121,7.26,Low-Risk
+PRV-0337,Specialist,Southeast,In-Network,Low (1-49/yr),0.27,9.22,Moderate-Risk
+PRV-0338,Specialist,West,In-Network,High (200-499/yr),0.134,4.7,Low-Risk
+PRV-0339,Imaging Center,Southeast,In-Network,High (200-499/yr),0.209,2.83,Moderate-Risk
+PRV-0340,Hospital,Midwest,In-Network,Very High (500+/yr),0.056,5.28,Low-Risk
+PRV-0341,Hospital,Southeast,In-Network,Medium (50-199/yr),0.147,5.92,Low-Risk
+PRV-0342,Imaging Center,West,Out-of-Network,Medium (50-199/yr),0.174,2.07,Moderate-Risk
+PRV-0343,Post-Acute Facility,Southeast,In-Network,Very High (500+/yr),0.174,6.15,Moderate-Risk
+PRV-0344,Specialist,Midwest,In-Network,Very High (500+/yr),0.12,8.31,Low-Risk
+PRV-0345,Imaging Center,Northeast,In-Network,High (200-499/yr),0.089,3.45,Low-Risk
+PRV-0346,Surgery Center,Southeast,In-Network,Low (1-49/yr),0.133,2.51,Low-Risk
+PRV-0347,Hospital,Midwest,In-Network,Very High (500+/yr),0.107,6.74,Low-Risk
+PRV-0348,DME Supplier,Northeast,In-Network,Low (1-49/yr),0.307,9.86,High-Risk
+PRV-0349,Specialist,Midwest,Out-of-Network,High (200-499/yr),0.203,5.74,Moderate-Risk
+PRV-0350,Hospital,Northeast,In-Network,Very High (500+/yr),0.115,6.57,Low-Risk
+PRV-0351,Specialist,Midwest,In-Network,Medium (50-199/yr),0.249,2.56,Moderate-Risk
+PRV-0352,Specialist,Midwest,In-Network,High (200-499/yr),0.198,8.24,Moderate-Risk
+PRV-0353,Imaging Center,West,In-Network,Low (1-49/yr),0.124,3.72,Low-Risk
+PRV-0354,DME Supplier,Northeast,In-Network,Medium (50-199/yr),0.248,0.8,Moderate-Risk
+PRV-0355,Specialist,Southeast,Out-of-Network,Medium (50-199/yr),0.153,1.38,Moderate-Risk
+PRV-0356,Hospital,Midwest,In-Network,Very High (500+/yr),0.057,3.3,Low-Risk
+PRV-0357,Imaging Center,Southeast,In-Network,Medium (50-199/yr),0.161,4.05,Moderate-Risk
+PRV-0358,DME Supplier,Midwest,In-Network,Medium (50-199/yr),0.284,6.13,Moderate-Risk
+PRV-0359,DME Supplier,Northeast,In-Network,Medium (50-199/yr),0.344,6.77,High-Risk
+PRV-0360,Specialist,Southeast,Out-of-Network,Low (1-49/yr),0.101,6.18,Low-Risk
+PRV-0361,Specialist,West,In-Network,Very High (500+/yr),0.129,7.3,Low-Risk
+PRV-0362,Primary Care,Southeast,Out-of-Network,Medium (50-199/yr),0.288,1.46,Moderate-Risk
+PRV-0363,Hospital,Southeast,In-Network,Very High (500+/yr),0.07,7.74,Low-Risk
+PRV-0364,Hospital,Northeast,In-Network,Very High (500+/yr),0.096,8.67,Low-Risk
+PRV-0365,Primary Care,West,In-Network,Low (1-49/yr),0.127,8.79,Low-Risk
+PRV-0366,Specialist,Midwest,In-Network,High (200-499/yr),0.267,1.97,Moderate-Risk
+PRV-0367,Hospital,Northeast,In-Network,High (200-499/yr),0.12,9.01,Low-Risk
+PRV-0368,Behavioral Health,Southwest,In-Network,High (200-499/yr),0.265,6.67,Moderate-Risk
+PRV-0369,Post-Acute Facility,West,Out-of-Network,High (200-499/yr),0.299,4.58,Moderate-Risk
+PRV-0370,Imaging Center,Midwest,In-Network,Medium (50-199/yr),0.093,6.61,Low-Risk
+PRV-0371,Imaging Center,Northeast,In-Network,High (200-499/yr),0.206,6.63,Moderate-Risk
+PRV-0372,Specialist,West,In-Network,Very High (500+/yr),0.222,2.23,Moderate-Risk
+PRV-0373,Hospital,Southeast,In-Network,Very High (500+/yr),0.164,1.79,Moderate-Risk
+PRV-0374,Hospital,Southeast,In-Network,High (200-499/yr),0.07,6.2,Low-Risk
+PRV-0375,Imaging Center,West,In-Network,High (200-499/yr),0.176,8.54,Moderate-Risk
+PRV-0376,DME Supplier,Midwest,In-Network,Medium (50-199/yr),0.376,5.7,High-Risk
+PRV-0377,Home Health Agency,Northeast,In-Network,Medium (50-199/yr),0.222,0.97,Moderate-Risk
+PRV-0378,Specialist,Southeast,In-Network,High (200-499/yr),0.176,1.48,Moderate-Risk
+PRV-0379,Surgery Center,Southeast,In-Network,Low (1-49/yr),0.158,4.37,Moderate-Risk
+PRV-0380,Specialist,Midwest,Out-of-Network,Low (1-49/yr),0.197,2.94,Moderate-Risk
+PRV-0381,Primary Care,Southeast,In-Network,Medium (50-199/yr),0.219,3.16,Moderate-Risk
+PRV-0382,DME Supplier,Midwest,In-Network,Medium (50-199/yr),0.207,7.53,Moderate-Risk
+PRV-0383,DME Supplier,West,In-Network,Low (1-49/yr),0.428,4.84,High-Risk
+PRV-0384,Hospital,Midwest,In-Network,Very High (500+/yr),0.106,9.19,Low-Risk
+PRV-0385,Hospital,Northeast,Out-of-Network,Very High (500+/yr),0.135,1.24,Low-Risk
+PRV-0386,Specialist,Midwest,In-Network,Low (1-49/yr),0.211,8.66,Moderate-Risk
+PRV-0387,Surgery Center,West,In-Network,Medium (50-199/yr),0.207,6.46,Moderate-Risk
+PRV-0388,Hospital,Northeast,In-Network,High (200-499/yr),0.103,3.78,Low-Risk
+PRV-0389,Specialist,Southeast,In-Network,Very High (500+/yr),0.17,9.81,Moderate-Risk
+PRV-0390,Hospital,Midwest,Out-of-Network,High (200-499/yr),0.111,3.54,Low-Risk
+PRV-0391,Post-Acute Facility,Midwest,In-Network,Very High (500+/yr),0.144,8.16,Low-Risk
+PRV-0392,Home Health Agency,Southeast,In-Network,High (200-499/yr),0.167,5.63,Moderate-Risk
+PRV-0393,Hospital,Midwest,In-Network,High (200-499/yr),0.15,9.44,Low-Risk
+PRV-0394,DME Supplier,West,In-Network,Medium (50-199/yr),0.349,6.68,High-Risk
+PRV-0395,Specialist,Southeast,In-Network,Medium (50-199/yr),0.167,7.0,Moderate-Risk
+PRV-0396,Specialist,West,Out-of-Network,Medium (50-199/yr),0.111,2.46,Low-Risk
+PRV-0397,Surgery Center,Northeast,In-Network,Medium (50-199/yr),0.101,1.94,Low-Risk
+PRV-0398,DME Supplier,Midwest,In-Network,Low (1-49/yr),0.298,5.46,Moderate-Risk
+PRV-0399,Surgery Center,Southeast,In-Network,Very High (500+/yr),0.164,9.58,Moderate-Risk
+PRV-0400,Specialist,Southeast,In-Network,Low (1-49/yr),0.239,2.66,Moderate-Risk
+PRV-0401,Specialist,Midwest,In-Network,High (200-499/yr),0.116,4.43,Low-Risk
+PRV-0402,Hospital,Southeast,In-Network,Very High (500+/yr),0.175,1.92,Moderate-Risk
+PRV-0403,Primary Care,Northeast,In-Network,Low (1-49/yr),0.248,8.84,Moderate-Risk
+PRV-0404,Hospital,Midwest,In-Network,Very High (500+/yr),0.084,3.13,Low-Risk
+PRV-0405,Surgery Center,Northeast,Out-of-Network,Medium (50-199/yr),0.192,9.3,Moderate-Risk
+PRV-0406,Imaging Center,West,In-Network,High (200-499/yr),0.111,8.51,Low-Risk
+PRV-0407,Imaging Center,Midwest,In-Network,High (200-499/yr),0.197,3.39,Moderate-Risk
+PRV-0408,Primary Care,West,In-Network,Low (1-49/yr),0.137,1.38,Low-Risk
+PRV-0409,Imaging Center,West,In-Network,Very High (500+/yr),0.212,5.27,Moderate-Risk
+PRV-0410,Surgery Center,Midwest,In-Network,Very High (500+/yr),0.214,3.45,Moderate-Risk
+PRV-0411,Home Health Agency,Southwest,In-Network,Medium (50-199/yr),0.219,4.63,Moderate-Risk
+PRV-0412,Specialist,Southeast,In-Network,High (200-499/yr),0.16,9.47,Moderate-Risk
+PRV-0413,Hospital,Midwest,In-Network,High (200-499/yr),0.067,9.53,Low-Risk
+PRV-0414,Specialist,West,In-Network,Very High (500+/yr),0.235,3.45,Moderate-Risk
+PRV-0415,Primary Care,Southeast,In-Network,Medium (50-199/yr),0.143,4.93,Low-Risk
+PRV-0416,Imaging Center,Northeast,In-Network,Medium (50-199/yr),0.158,2.87,Moderate-Risk
+PRV-0417,Hospital,Northeast,Out-of-Network,Very High (500+/yr),0.08,2.01,Low-Risk
+PRV-0418,Behavioral Health,Southeast,In-Network,Medium (50-199/yr),0.191,0.92,Moderate-Risk
+PRV-0419,Specialist,Southeast,In-Network,High (200-499/yr),0.198,5.26,Moderate-Risk
+PRV-0420,Specialist,Southeast,In-Network,Low (1-49/yr),0.22,7.0,Moderate-Risk
+PRV-0421,DME Supplier,Southeast,In-Network,Medium (50-199/yr),0.379,4.03,High-Risk
+PRV-0422,Primary Care,Midwest,In-Network,Low (1-49/yr),0.145,8.49,Low-Risk
+PRV-0423,Surgery Center,West,In-Network,Medium (50-199/yr),0.212,6.54,Moderate-Risk
+PRV-0424,Specialist,West,In-Network,Low (1-49/yr),0.245,6.11,Moderate-Risk
+PRV-0425,DME Supplier,Midwest,In-Network,Medium (50-199/yr),0.295,9.35,Moderate-Risk
+PRV-0426,Specialist,Southeast,In-Network,High (200-499/yr),0.207,6.99,Moderate-Risk
+PRV-0427,Hospital,Southeast,In-Network,High (200-499/yr),0.08,4.78,Low-Risk
+PRV-0428,Surgery Center,Northeast,In-Network,High (200-499/yr),0.198,7.59,Moderate-Risk
+PRV-0429,Primary Care,Midwest,In-Network,Medium (50-199/yr),0.174,7.52,Moderate-Risk
+PRV-0430,Imaging Center,Southeast,In-Network,High (200-499/yr),0.13,5.54,Low-Risk
+PRV-0431,Imaging Center,Southeast,Out-of-Network,High (200-499/yr),0.197,9.96,Moderate-Risk
+PRV-0432,Primary Care,Midwest,In-Network,Medium (50-199/yr),0.144,2.92,Low-Risk
+PRV-0433,Imaging Center,Northeast,Out-of-Network,Medium (50-199/yr),0.217,6.04,Moderate-Risk
+PRV-0434,Specialist,Northeast,In-Network,Medium (50-199/yr),0.266,8.77,Moderate-Risk
+PRV-0435,Hospital,Southeast,In-Network,Very High (500+/yr),0.122,2.46,Low-Risk
+PRV-0436,Specialist,Midwest,Out-of-Network,Very High (500+/yr),0.156,2.57,Moderate-Risk
+PRV-0437,Hospital,Midwest,In-Network,Very High (500+/yr),0.11,0.56,Low-Risk
+PRV-0438,Specialist,West,In-Network,High (200-499/yr),0.172,4.32,Moderate-Risk
+PRV-0439,Specialist,Midwest,In-Network,Medium (50-199/yr),0.274,9.93,Moderate-Risk
+PRV-0440,DME Supplier,West,In-Network,Very High (500+/yr),0.23,1.71,Moderate-Risk
+PRV-0441,Imaging Center,Midwest,In-Network,Very High (500+/yr),0.21,5.6,Moderate-Risk
+PRV-0442,Imaging Center,Northeast,In-Network,High (200-499/yr),0.191,8.01,Moderate-Risk
+PRV-0443,Imaging Center,Southeast,In-Network,Low (1-49/yr),0.108,6.62,Low-Risk
+PRV-0444,Behavioral Health,Southwest,Out-of-Network,Low (1-49/yr),0.189,4.31,Moderate-Risk
+PRV-0445,Home Health Agency,Southeast,In-Network,Medium (50-199/yr),0.156,2.23,Moderate-Risk
+PRV-0446,Hospital,Southeast,In-Network,High (200-499/yr),0.169,3.13,Moderate-Risk
+PRV-0447,DME Supplier,Midwest,In-Network,Low (1-49/yr),0.341,8.67,High-Risk
+PRV-0448,Hospital,Northeast,In-Network,Very High (500+/yr),0.063,4.19,Low-Risk
+PRV-0449,Specialist,Southwest,In-Network,Low (1-49/yr),0.2,5.81,Moderate-Risk
+PRV-0450,Primary Care,Midwest,In-Network,Medium (50-199/yr),0.161,1.29,Moderate-Risk
+PRV-0451,Hospital,Southeast,Out-of-Network,High (200-499/yr),0.094,5.75,Low-Risk
+PRV-0452,Surgery Center,Northeast,In-Network,Very High (500+/yr),0.132,5.25,Low-Risk
+PRV-0453,Primary Care,West,In-Network,Medium (50-199/yr),0.286,7.05,Moderate-Risk
+PRV-0454,Hospital,Southeast,In-Network,Very High (500+/yr),0.115,5.02,Low-Risk
+PRV-0455,Hospital,Southeast,In-Network,Very High (500+/yr),0.077,7.87,Low-Risk
+PRV-0456,Specialist,Midwest,In-Network,High (200-499/yr),0.146,8.23,Low-Risk
+PRV-0457,Imaging Center,West,In-Network,High (200-499/yr),0.214,7.97,Moderate-Risk
+PRV-0458,DME Supplier,Northeast,In-Network,Medium (50-199/yr),0.248,8.57,Moderate-Risk
+PRV-0459,Specialist,Northeast,In-Network,Low (1-49/yr),0.256,1.51,Moderate-Risk
+PRV-0460,Hospital,Northeast,In-Network,High (200-499/yr),0.176,9.73,Moderate-Risk
+PRV-0461,Imaging Center,West,In-Network,Low (1-49/yr),0.102,1.33,Low-Risk
+PRV-0462,DME Supplier,West,In-Network,Medium (50-199/yr),0.331,8.28,High-Risk
+PRV-0463,DME Supplier,Northeast,In-Network,High (200-499/yr),0.406,9.82,High-Risk
+PRV-0464,Surgery Center,West,In-Network,Medium (50-199/yr),0.16,5.54,Moderate-Risk
+PRV-0465,Post-Acute Facility,Midwest,In-Network,High (200-499/yr),0.189,2.7,Moderate-Risk
+PRV-0466,Imaging Center,Southeast,In-Network,High (200-499/yr),0.217,2.22,Moderate-Risk
+PRV-0467,Specialist,Midwest,In-Network,Medium (50-199/yr),0.133,5.33,Low-Risk
+PRV-0468,Hospital,West,Out-of-Network,Very High (500+/yr),0.124,6.39,Low-Risk
+PRV-0469,Imaging Center,Southeast,Out-of-Network,High (200-499/yr),0.173,4.72,Moderate-Risk
+PRV-0470,Specialist,Northeast,In-Network,High (200-499/yr),0.238,3.69,Moderate-Risk
+PRV-0471,Surgery Center,Midwest,In-Network,Very High (500+/yr),0.093,8.18,Low-Risk
+PRV-0472,Primary Care,West,In-Network,Low (1-49/yr),0.273,3.73,Moderate-Risk
+PRV-0473,Imaging Center,Midwest,In-Network,Very High (500+/yr),0.176,1.1,Moderate-Risk
+PRV-0474,Post-Acute Facility,Southeast,Out-of-Network,High (200-499/yr),0.214,5.26,Moderate-Risk
+PRV-0475,Behavioral Health,West,In-Network,High (200-499/yr),0.197,8.38,Moderate-Risk
+PRV-0476,Post-Acute Facility,Southeast,In-Network,Very High (500+/yr),0.285,5.21,Moderate-Risk
+PRV-0477,Specialist,West,In-Network,High (200-499/yr),0.136,8.91,Low-Risk
+PRV-0478,Primary Care,West,In-Network,Medium (50-199/yr),0.183,3.68,Moderate-Risk
+PRV-0479,Hospital,Southeast,In-Network,High (200-499/yr),0.146,3.02,Low-Risk
+PRV-0480,Hospital,Midwest,In-Network,High (200-499/yr),0.06,3.11,Low-Risk
+PRV-0481,Hospital,Northeast,In-Network,High (200-499/yr),0.083,2.91,Low-Risk
+PRV-0482,Primary Care,Midwest,In-Network,Medium (50-199/yr),0.163,7.39,Moderate-Risk
+PRV-0483,Surgery Center,Southeast,In-Network,High (200-499/yr),0.185,6.43,Moderate-Risk
+PRV-0484,Hospital,West,In-Network,High (200-499/yr),0.054,8.74,Low-Risk
+PRV-0485,Specialist,Southeast,In-Network,High (200-499/yr),0.274,2.39,Moderate-Risk
+PRV-0486,Imaging Center,Northeast,In-Network,High (200-499/yr),0.209,2.85,Moderate-Risk
+PRV-0487,Surgery Center,Northeast,Out-of-Network,High (200-499/yr),0.122,8.21,Low-Risk
+PRV-0488,Specialist,West,In-Network,Medium (50-199/yr),0.14,1.33,Low-Risk
+PRV-0489,Specialist,West,In-Network,Medium (50-199/yr),0.258,8.47,Moderate-Risk
+PRV-0490,Hospital,Northeast,In-Network,Very High (500+/yr),0.056,2.69,Low-Risk
+PRV-0491,Imaging Center,Southeast,In-Network,High (200-499/yr),0.168,4.25,Moderate-Risk
+PRV-0492,Hospital,West,Out-of-Network,Very High (500+/yr),0.106,4.24,Low-Risk
+PRV-0493,Hospital,West,In-Network,High (200-499/yr),0.055,5.11,Low-Risk
+PRV-0494,DME Supplier,Northeast,In-Network,Medium (50-199/yr),0.343,7.93,High-Risk
+PRV-0495,Surgery Center,West,In-Network,Medium (50-199/yr),0.186,1.34,Moderate-Risk
+PRV-0496,Specialist,West,In-Network,Low (1-49/yr),0.188,8.8,Moderate-Risk
+PRV-0497,Hospital,Southeast,Out-of-Network,Very High (500+/yr),0.101,5.02,Low-Risk
+PRV-0498,Surgery Center,Southeast,In-Network,Medium (50-199/yr),0.108,4.56,Low-Risk
+PRV-0499,Hospital,West,In-Network,High (200-499/yr),0.078,7.21,Low-Risk
+PRV-0500,Imaging Center,Northeast,In-Network,Very High (500+/yr),0.163,3.77,Moderate-Risk
+PRV-0501,Primary Care,Northeast,In-Network,Medium (50-199/yr),0.235,0.78,Moderate-Risk
+PRV-0502,Hospital,Southwest,In-Network,High (200-499/yr),0.119,1.31,Low-Risk
+PRV-0503,DME Supplier,Northeast,In-Network,Medium (50-199/yr),0.375,2.23,High-Risk
+PRV-0504,DME Supplier,Southeast,In-Network,Low (1-49/yr),0.3,2.28,Moderate-Risk
+PRV-0505,Imaging Center,Midwest,In-Network,High (200-499/yr),0.131,6.89,Low-Risk
+PRV-0506,Surgery Center,Southeast,In-Network,Very High (500+/yr),0.215,5.26,Moderate-Risk
+PRV-0507,Specialist,West,In-Network,High (200-499/yr),0.265,1.13,Moderate-Risk
+PRV-0508,Specialist,Midwest,In-Network,High (200-499/yr),0.244,0.78,Moderate-Risk
+PRV-0509,Hospital,Southeast,In-Network,Medium (50-199/yr),0.055,5.61,Low-Risk
+PRV-0510,Surgery Center,Midwest,In-Network,High (200-499/yr),0.142,0.6,Low-Risk
+PRV-0511,Hospital,Southeast,Out-of-Network,High (200-499/yr),0.159,3.62,Moderate-Risk
+PRV-0512,Hospital,West,In-Network,Very High (500+/yr),0.138,5.05,Low-Risk
+PRV-0513,Imaging Center,West,In-Network,Medium (50-199/yr),0.166,8.28,Moderate-Risk
+PRV-0514,Specialist,West,In-Network,Medium (50-199/yr),0.219,9.51,Moderate-Risk
+PRV-0515,Hospital,Midwest,In-Network,High (200-499/yr),0.147,9.51,Low-Risk
+PRV-0516,Behavioral Health,Midwest,Out-of-Network,Medium (50-199/yr),0.262,9.97,Moderate-Risk
+PRV-0517,Imaging Center,West,In-Network,Very High (500+/yr),0.083,6.45,Low-Risk
+PRV-0518,Hospital,Southeast,In-Network,Very High (500+/yr),0.051,6.44,Low-Risk
+PRV-0519,Specialist,West,In-Network,Medium (50-199/yr),0.234,9.04,Moderate-Risk
+PRV-0520,Surgery Center,Southeast,In-Network,High (200-499/yr),0.164,9.61,Moderate-Risk
+PRV-0521,DME Supplier,West,In-Network,Low (1-49/yr),0.241,3.02,Moderate-Risk
+PRV-0522,Specialist,Midwest,In-Network,High (200-499/yr),0.144,3.86,Low-Risk
+PRV-0523,Primary Care,Midwest,In-Network,High (200-499/yr),0.271,2.05,Moderate-Risk
+PRV-0524,Specialist,Southeast,In-Network,High (200-499/yr),0.256,9.78,Moderate-Risk
+PRV-0525,Hospital,Northeast,Out-of-Network,High (200-499/yr),0.053,1.83,Low-Risk
+PRV-0526,Specialist,West,In-Network,Very High (500+/yr),0.279,9.13,Moderate-Risk
+PRV-0527,Hospital,Northeast,In-Network,Very High (500+/yr),0.164,9.69,Moderate-Risk
+PRV-0528,Post-Acute Facility,Midwest,In-Network,High (200-499/yr),0.182,5.4,Moderate-Risk
+PRV-0529,Hospital,West,In-Network,Very High (500+/yr),0.157,5.49,Moderate-Risk
+PRV-0530,Primary Care,Midwest,In-Network,High (200-499/yr),0.169,5.5,Moderate-Risk
+PRV-0531,Specialist,Southeast,In-Network,High (200-499/yr),0.254,2.28,Moderate-Risk
+PRV-0532,Imaging Center,West,In-Network,Very High (500+/yr),0.099,8.75,Low-Risk
+PRV-0533,Specialist,Southeast,In-Network,Very High (500+/yr),0.162,4.48,Moderate-Risk
+PRV-0534,Imaging Center,Southeast,In-Network,High (200-499/yr),0.154,0.89,Moderate-Risk
+PRV-0535,Specialist,Midwest,In-Network,High (200-499/yr),0.192,6.4,Moderate-Risk
+PRV-0536,DME Supplier,Southeast,In-Network,Medium (50-199/yr),0.265,3.72,Moderate-Risk
+PRV-0537,DME Supplier,Southeast,In-Network,Medium (50-199/yr),0.391,8.91,High-Risk
+PRV-0538,DME Supplier,Northeast,In-Network,Medium (50-199/yr),0.384,4.37,High-Risk
+PRV-0539,Hospital,Southeast,In-Network,High (200-499/yr),0.081,6.16,Low-Risk
+PRV-0540,Hospital,West,Out-of-Network,Very High (500+/yr),0.152,4.0,Moderate-Risk
+PRV-0541,Hospital,Midwest,In-Network,Very High (500+/yr),0.116,6.81,Low-Risk
+PRV-0542,Hospital,Southwest,In-Network,High (200-499/yr),0.151,5.22,Moderate-Risk
+PRV-0543,Imaging Center,Southeast,In-Network,Very High (500+/yr),0.132,1.62,Low-Risk
+PRV-0544,Specialist,Midwest,In-Network,Very High (500+/yr),0.181,2.86,Moderate-Risk
+PRV-0545,Imaging Center,Northeast,In-Network,Low (1-49/yr),0.166,3.64,Moderate-Risk
+PRV-0546,Hospital,Southeast,In-Network,Very High (500+/yr),0.178,4.45,Moderate-Risk
+PRV-0547,DME Supplier,Northeast,In-Network,High (200-499/yr),0.431,2.38,High-Risk
+PRV-0548,Imaging Center,Southeast,In-Network,High (200-499/yr),0.19,3.96,Moderate-Risk
+PRV-0549,Specialist,Southwest,In-Network,Very High (500+/yr),0.262,3.0,Moderate-Risk
+PRV-0550,Primary Care,West,Out-of-Network,Medium (50-199/yr),0.124,9.86,Low-Risk
+PRV-0551,Imaging Center,Northeast,In-Network,High (200-499/yr),0.175,3.19,Moderate-Risk
+PRV-0552,Hospital,Southeast,In-Network,Very High (500+/yr),0.065,9.32,Low-Risk
+PRV-0553,Primary Care,Southeast,In-Network,Medium (50-199/yr),0.13,8.01,Low-Risk
+PRV-0554,Hospital,West,Out-of-Network,High (200-499/yr),0.131,8.11,Low-Risk
+PRV-0555,Home Health Agency,West,In-Network,Medium (50-199/yr),0.235,4.04,Moderate-Risk
+PRV-0556,Home Health Agency,West,In-Network,High (200-499/yr),0.282,5.34,Moderate-Risk
+PRV-0557,Imaging Center,Northeast,Out-of-Network,Medium (50-199/yr),0.19,7.57,Moderate-Risk
+PRV-0558,Specialist,Northeast,In-Network,High (200-499/yr),0.19,5.0,Moderate-Risk
+PRV-0559,Hospital,Southeast,In-Network,Very High (500+/yr),0.093,6.44,Low-Risk
+PRV-0560,Imaging Center,Midwest,Out-of-Network,Medium (50-199/yr),0.162,7.9,Moderate-Risk
+PRV-0561,Surgery Center,Midwest,In-Network,Very High (500+/yr),0.215,5.47,Moderate-Risk
+PRV-0562,Home Health Agency,Midwest,In-Network,Very High (500+/yr),0.327,0.73,High-Risk
+PRV-0563,Specialist,Midwest,In-Network,High (200-499/yr),0.166,1.38,Moderate-Risk
+PRV-0564,Hospital,Southeast,In-Network,Medium (50-199/yr),0.077,6.31,Low-Risk
+PRV-0565,Specialist,Southeast,In-Network,Medium (50-199/yr),0.222,2.81,Moderate-Risk
+PRV-0566,Imaging Center,Midwest,In-Network,Low (1-49/yr),0.106,5.82,Low-Risk
+PRV-0567,Hospital,West,In-Network,Very High (500+/yr),0.072,6.34,Low-Risk
+PRV-0568,Imaging Center,Midwest,In-Network,Very High (500+/yr),0.12,4.42,Low-Risk
+PRV-0569,Imaging Center,Southeast,In-Network,High (200-499/yr),0.137,1.78,Low-Risk
+PRV-0570,Specialist,Northeast,In-Network,High (200-499/yr),0.142,7.56,Low-Risk
+PRV-0571,Hospital,Midwest,In-Network,High (200-499/yr),0.088,3.11,Low-Risk
+PRV-0572,Specialist,Southwest,In-Network,High (200-499/yr),0.183,7.74,Moderate-Risk
+PRV-0573,Imaging Center,Midwest,In-Network,Medium (50-199/yr),0.141,5.42,Low-Risk
+PRV-0574,Surgery Center,West,In-Network,High (200-499/yr),0.157,5.88,Moderate-Risk
+PRV-0575,Hospital,Southeast,Out-of-Network,Very High (500+/yr),0.118,4.15,Low-Risk
+PRV-0576,Surgery Center,Midwest,In-Network,High (200-499/yr),0.218,8.2,Moderate-Risk
+PRV-0577,Hospital,Northeast,In-Network,High (200-499/yr),0.107,0.6,Low-Risk
+PRV-0578,Specialist,Southwest,In-Network,High (200-499/yr),0.168,9.42,Moderate-Risk
+PRV-0579,Primary Care,Southeast,In-Network,Very High (500+/yr),0.168,9.96,Moderate-Risk
+PRV-0580,Imaging Center,West,In-Network,Medium (50-199/yr),0.214,1.82,Moderate-Risk
+PRV-0581,Primary Care,Midwest,Out-of-Network,High (200-499/yr),0.146,6.63,Low-Risk
+PRV-0582,Hospital,West,In-Network,High (200-499/yr),0.123,2.47,Low-Risk
+PRV-0583,Imaging Center,West,In-Network,Medium (50-199/yr),0.158,1.11,Moderate-Risk
+PRV-0584,Imaging Center,West,In-Network,Medium (50-199/yr),0.149,3.6,Low-Risk
+PRV-0585,Imaging Center,Southeast,In-Network,Medium (50-199/yr),0.087,7.02,Low-Risk
+PRV-0586,Post-Acute Facility,Midwest,In-Network,Very High (500+/yr),0.179,6.83,Moderate-Risk
+PRV-0587,Primary Care,Midwest,In-Network,High (200-499/yr),0.187,0.52,Moderate-Risk
+PRV-0588,DME Supplier,Northeast,In-Network,High (200-499/yr),0.284,7.61,Moderate-Risk
+PRV-0589,Surgery Center,Midwest,In-Network,Medium (50-199/yr),0.117,4.44,Low-Risk
+PRV-0590,Specialist,Northeast,Out-of-Network,Medium (50-199/yr),0.184,3.87,Moderate-Risk
+PRV-0591,DME Supplier,Northeast,In-Network,Low (1-49/yr),0.4,9.82,High-Risk
+PRV-0592,Imaging Center,Northeast,In-Network,High (200-499/yr),0.142,0.98,Low-Risk
+PRV-0593,Hospital,West,In-Network,Medium (50-199/yr),0.132,9.47,Low-Risk
+PRV-0594,Specialist,Northeast,In-Network,Medium (50-199/yr),0.161,8.85,Moderate-Risk
+PRV-0595,Imaging Center,Southeast,In-Network,Medium (50-199/yr),0.087,2.26,Low-Risk
+PRV-0596,Specialist,Southeast,In-Network,Very High (500+/yr),0.201,7.25,Moderate-Risk
+PRV-0597,Specialist,Midwest,In-Network,High (200-499/yr),0.254,3.15,Moderate-Risk
+PRV-0598,Specialist,Northeast,Out-of-Network,Low (1-49/yr),0.199,8.1,Moderate-Risk
+PRV-0599,Surgery Center,Northeast,In-Network,Very High (500+/yr),0.091,1.71,Low-Risk
+PRV-0600,Specialist,West,In-Network,High (200-499/yr),0.148,9.22,Low-Risk
+PRV-0601,Imaging Center,Midwest,In-Network,Medium (50-199/yr),0.187,1.76,Moderate-Risk
+PRV-0602,Specialist,Southeast,Out-of-Network,High (200-499/yr),0.132,8.12,Low-Risk
+PRV-0603,Specialist,Northeast,In-Network,High (200-499/yr),0.263,8.74,Moderate-Risk
+PRV-0604,Surgery Center,Midwest,In-Network,Very High (500+/yr),0.147,0.88,Low-Risk
+PRV-0605,Specialist,West,In-Network,Medium (50-199/yr),0.207,4.31,Moderate-Risk
+PRV-0606,Imaging Center,Southeast,In-Network,Very High (500+/yr),0.12,3.18,Low-Risk
+PRV-0607,Hospital,Southeast,In-Network,High (200-499/yr),0.176,1.7,Moderate-Risk
+PRV-0608,Hospital,Southeast,In-Network,High (200-499/yr),0.154,8.63,Moderate-Risk
+PRV-0609,Specialist,Southeast,In-Network,Low (1-49/yr),0.136,5.35,Low-Risk
+PRV-0610,Hospital,Southeast,In-Network,Very High (500+/yr),0.069,4.84,Low-Risk
+PRV-0611,Specialist,Midwest,In-Network,Medium (50-199/yr),0.11,1.05,Low-Risk
+PRV-0612,Imaging Center,West,In-Network,Low (1-49/yr),0.124,7.61,Low-Risk
+PRV-0613,DME Supplier,Southeast,In-Network,Medium (50-199/yr),0.371,0.53,High-Risk
+PRV-0614,Imaging Center,Northeast,In-Network,Low (1-49/yr),0.091,1.37,Low-Risk
+PRV-0615,Hospital,West,Out-of-Network,Very High (500+/yr),0.163,3.97,Moderate-Risk
+PRV-0616,Primary Care,Midwest,In-Network,Medium (50-199/yr),0.223,6.48,Moderate-Risk
+PRV-0617,Hospital,Midwest,Out-of-Network,Very High (500+/yr),0.119,8.77,Low-Risk
+PRV-0618,Hospital,Southeast,In-Network,Medium (50-199/yr),0.112,1.88,Low-Risk
+PRV-0619,Specialist,Southeast,In-Network,Low (1-49/yr),0.195,3.02,Moderate-Risk
+PRV-0620,Primary Care,Midwest,In-Network,High (200-499/yr),0.261,5.95,Moderate-Risk
+PRV-0621,Specialist,Southwest,Out-of-Network,Low (1-49/yr),0.106,3.57,Low-Risk
+PRV-0622,Hospital,Northeast,In-Network,Very High (500+/yr),0.116,2.31,Low-Risk
+PRV-0623,Hospital,West,In-Network,High (200-499/yr),0.097,2.76,Low-Risk
+PRV-0624,Hospital,Southeast,In-Network,High (200-499/yr),0.142,8.77,Low-Risk
+PRV-0625,Specialist,Northeast,In-Network,Very High (500+/yr),0.248,3.0,Moderate-Risk
+PRV-0626,Imaging Center,Northeast,In-Network,High (200-499/yr),0.143,0.6,Low-Risk
+PRV-0627,Home Health Agency,West,In-Network,Low (1-49/yr),0.204,7.15,Moderate-Risk
+PRV-0628,Surgery Center,West,In-Network,High (200-499/yr),0.157,9.24,Moderate-Risk
+PRV-0629,Surgery Center,Southeast,In-Network,High (200-499/yr),0.159,5.62,Moderate-Risk
+PRV-0630,Hospital,Southeast,In-Network,High (200-499/yr),0.064,6.24,Low-Risk
+PRV-0631,Imaging Center,Southwest,In-Network,Very High (500+/yr),0.184,7.75,Moderate-Risk
+PRV-0632,Specialist,Southeast,In-Network,Medium (50-199/yr),0.11,1.3,Low-Risk
+PRV-0633,Hospital,Midwest,In-Network,High (200-499/yr),0.15,6.09,Low-Risk
+PRV-0634,Behavioral Health,Northeast,In-Network,High (200-499/yr),0.18,8.26,Moderate-Risk
+PRV-0635,Primary Care,Midwest,In-Network,Medium (50-199/yr),0.128,9.32,Low-Risk
+PRV-0636,DME Supplier,Southeast,In-Network,Very High (500+/yr),0.407,8.49,High-Risk
+PRV-0637,Imaging Center,West,In-Network,Very High (500+/yr),0.173,0.56,Moderate-Risk
+PRV-0638,Hospital,Midwest,In-Network,Low (1-49/yr),0.073,4.54,Low-Risk
+PRV-0639,Surgery Center,Midwest,In-Network,High (200-499/yr),0.181,4.4,Moderate-Risk
+PRV-0640,Primary Care,Midwest,In-Network,High (200-499/yr),0.296,8.28,Moderate-Risk
+PRV-0641,Specialist,West,In-Network,High (200-499/yr),0.201,0.75,Moderate-Risk
+PRV-0642,Surgery Center,West,In-Network,Medium (50-199/yr),0.212,1.15,Moderate-Risk
+PRV-0643,Hospital,Northeast,In-Network,Very High (500+/yr),0.124,0.97,Low-Risk
+PRV-0644,Specialist,Midwest,In-Network,High (200-499/yr),0.124,3.77,Low-Risk
+PRV-0645,DME Supplier,Southeast,In-Network,Medium (50-199/yr),0.367,8.59,High-Risk
+PRV-0646,Primary Care,Southeast,In-Network,High (200-499/yr),0.135,5.31,Low-Risk
+PRV-0647,DME Supplier,Southeast,In-Network,Medium (50-199/yr),0.225,7.48,Moderate-Risk
+PRV-0648,Post-Acute Facility,Southeast,In-Network,Low (1-49/yr),0.175,3.52,Moderate-Risk
+PRV-0649,Imaging Center,Midwest,Out-of-Network,High (200-499/yr),0.135,8.27,Low-Risk
+PRV-0650,Specialist,West,Out-of-Network,Very High (500+/yr),0.164,4.0,Moderate-Risk
+PRV-0651,Specialist,West,In-Network,Very High (500+/yr),0.267,8.07,Moderate-Risk
+PRV-0652,Primary Care,Southeast,In-Network,High (200-499/yr),0.261,3.89,Moderate-Risk
+PRV-0653,Hospital,Midwest,In-Network,Very High (500+/yr),0.147,4.99,Low-Risk
+PRV-0654,Hospital,Northeast,In-Network,High (200-499/yr),0.066,2.99,Low-Risk
+PRV-0655,Hospital,Midwest,In-Network,Very High (500+/yr),0.177,9.86,Moderate-Risk
+PRV-0656,Post-Acute Facility,Midwest,In-Network,Very High (500+/yr),0.24,5.6,Moderate-Risk
+PRV-0657,Hospital,Southwest,In-Network,Very High (500+/yr),0.129,1.87,Low-Risk
+PRV-0658,Specialist,Midwest,Out-of-Network,Medium (50-199/yr),0.114,4.54,Low-Risk
+PRV-0659,Imaging Center,Northeast,In-Network,Very High (500+/yr),0.101,4.49,Low-Risk
+PRV-0660,Imaging Center,Midwest,In-Network,Medium (50-199/yr),0.106,1.22,Low-Risk
+PRV-0661,Primary Care,Southeast,In-Network,Medium (50-199/yr),0.206,1.76,Moderate-Risk
+PRV-0662,Primary Care,Southeast,In-Network,Medium (50-199/yr),0.25,3.65,Moderate-Risk
+PRV-0663,Hospital,Midwest,In-Network,High (200-499/yr),0.072,9.58,Low-Risk
+PRV-0664,Hospital,Midwest,In-Network,High (200-499/yr),0.116,8.62,Low-Risk
+PRV-0665,Imaging Center,Southeast,In-Network,Medium (50-199/yr),0.121,2.07,Low-Risk
+PRV-0666,Specialist,Midwest,In-Network,Low (1-49/yr),0.204,3.69,Moderate-Risk
+PRV-0667,Post-Acute Facility,Southeast,In-Network,High (200-499/yr),0.263,8.52,Moderate-Risk
+PRV-0668,Hospital,Southeast,Out-of-Network,Very High (500+/yr),0.149,7.08,Low-Risk
+PRV-0669,Imaging Center,Northeast,In-Network,Very High (500+/yr),0.148,1.2,Low-Risk
+PRV-0670,Specialist,Southeast,In-Network,Medium (50-199/yr),0.154,5.28,Moderate-Risk
+PRV-0671,Surgery Center,Southeast,In-Network,High (200-499/yr),0.09,1.84,Low-Risk
+PRV-0672,Home Health Agency,Midwest,In-Network,Medium (50-199/yr),0.182,2.29,Moderate-Risk
+PRV-0673,Imaging Center,Southeast,In-Network,High (200-499/yr),0.2,8.88,Moderate-Risk
+PRV-0674,Hospital,Midwest,Out-of-Network,High (200-499/yr),0.076,8.01,Low-Risk
+PRV-0675,Home Health Agency,Southeast,In-Network,Medium (50-199/yr),0.311,7.71,High-Risk
+PRV-0676,Specialist,Southeast,In-Network,High (200-499/yr),0.266,1.07,Moderate-Risk
+PRV-0677,Surgery Center,Southeast,In-Network,Medium (50-199/yr),0.082,5.0,Low-Risk
+PRV-0678,Surgery Center,Northeast,Out-of-Network,Very High (500+/yr),0.129,0.51,Low-Risk
+PRV-0679,DME Supplier,West,In-Network,Medium (50-199/yr),0.4,6.31,High-Risk
+PRV-0680,Post-Acute Facility,Northeast,In-Network,Medium (50-199/yr),0.235,6.46,Moderate-Risk
+PRV-0681,Specialist,Southeast,In-Network,Very High (500+/yr),0.181,5.28,Moderate-Risk
+PRV-0682,Surgery Center,Southeast,In-Network,High (200-499/yr),0.094,3.35,Low-Risk
+PRV-0683,Hospital,West,In-Network,Medium (50-199/yr),0.057,8.49,Low-Risk
+PRV-0684,DME Supplier,West,In-Network,Low (1-49/yr),0.24,3.57,Moderate-Risk
+PRV-0685,Hospital,West,In-Network,Very High (500+/yr),0.071,3.75,Low-Risk
+PRV-0686,Hospital,Northeast,In-Network,Very High (500+/yr),0.101,5.91,Low-Risk
+PRV-0687,Specialist,Southeast,In-Network,Low (1-49/yr),0.251,2.68,Moderate-Risk
+PRV-0688,Hospital,West,Out-of-Network,Very High (500+/yr),0.169,8.42,Moderate-Risk
+PRV-0689,Hospital,Northeast,In-Network,Very High (500+/yr),0.139,8.02,Low-Risk
+PRV-0690,Post-Acute Facility,Northeast,In-Network,Very High (500+/yr),0.215,7.85,Moderate-Risk
+PRV-0691,Specialist,Southeast,In-Network,Medium (50-199/yr),0.134,1.31,Low-Risk
+PRV-0692,Specialist,Midwest,In-Network,Medium (50-199/yr),0.264,4.29,Moderate-Risk
+PRV-0693,Hospital,Southeast,In-Network,Very High (500+/yr),0.055,1.32,Low-Risk
+PRV-0694,Primary Care,Northeast,In-Network,Medium (50-199/yr),0.283,4.63,Moderate-Risk
+PRV-0695,Hospital,Southeast,Out-of-Network,High (200-499/yr),0.154,8.1,Moderate-Risk
+PRV-0696,Specialist,West,In-Network,High (200-499/yr),0.263,4.67,Moderate-Risk
+PRV-0697,Surgery Center,Midwest,In-Network,High (200-499/yr),0.173,7.19,Moderate-Risk
+PRV-0698,Specialist,Northeast,In-Network,High (200-499/yr),0.245,8.7,Moderate-Risk
+PRV-0699,Surgery Center,Midwest,Out-of-Network,Medium (50-199/yr),0.094,3.07,Low-Risk
+PRV-0700,Specialist,Northeast,In-Network,Low (1-49/yr),0.12,9.63,Low-Risk
+PRV-0701,Surgery Center,Northeast,In-Network,High (200-499/yr),0.136,8.62,Low-Risk
+PRV-0702,Hospital,West,In-Network,Very High (500+/yr),0.07,0.79,Low-Risk
+PRV-0703,Imaging Center,Midwest,In-Network,Medium (50-199/yr),0.205,3.38,Moderate-Risk
+PRV-0704,Hospital,West,In-Network,Very High (500+/yr),0.13,3.96,Low-Risk
+PRV-0705,Hospital,Southeast,Out-of-Network,Very High (500+/yr),0.06,6.2,Low-Risk
+PRV-0706,Specialist,Southeast,In-Network,Very High (500+/yr),0.169,1.47,Moderate-Risk
+PRV-0707,Hospital,Midwest,Out-of-Network,Very High (500+/yr),0.174,9.68,Moderate-Risk
+PRV-0708,Specialist,Midwest,Out-of-Network,Medium (50-199/yr),0.127,1.43,Low-Risk
+PRV-0709,Specialist,Northeast,In-Network,Medium (50-199/yr),0.157,8.84,Moderate-Risk
+PRV-0710,Primary Care,Northeast,In-Network,Medium (50-199/yr),0.28,7.3,Moderate-Risk
+PRV-0711,Specialist,West,Out-of-Network,Very High (500+/yr),0.123,4.25,Low-Risk
+PRV-0712,Post-Acute Facility,Southeast,In-Network,Medium (50-199/yr),0.206,0.6,Moderate-Risk
+PRV-0713,Specialist,Southwest,In-Network,Very High (500+/yr),0.144,2.8,Low-Risk
+PRV-0714,Hospital,Southeast,In-Network,Very High (500+/yr),0.154,7.84,Moderate-Risk
+PRV-0715,Surgery Center,Midwest,In-Network,High (200-499/yr),0.182,6.11,Moderate-Risk
+PRV-0716,Imaging Center,Southeast,In-Network,Very High (500+/yr),0.17,4.96,Moderate-Risk
+PRV-0717,Specialist,West,In-Network,Very High (500+/yr),0.197,1.77,Moderate-Risk
+PRV-0718,Specialist,Southeast,In-Network,Medium (50-199/yr),0.217,0.69,Moderate-Risk
+PRV-0719,DME Supplier,Southeast,In-Network,High (200-499/yr),0.375,7.04,High-Risk
+PRV-0720,Primary Care,Southeast,Out-of-Network,High (200-499/yr),0.256,3.19,Moderate-Risk
+PRV-0721,Imaging Center,Northeast,In-Network,Medium (50-199/yr),0.216,8.91,Moderate-Risk
+PRV-0722,Hospital,Midwest,In-Network,Very High (500+/yr),0.155,2.19,Moderate-Risk
+PRV-0723,Behavioral Health,Southwest,In-Network,High (200-499/yr),0.19,6.02,Moderate-Risk
+PRV-0724,Hospital,Northeast,In-Network,Very High (500+/yr),0.074,8.05,Low-Risk
+PRV-0725,Imaging Center,Northeast,In-Network,High (200-499/yr),0.107,2.08,Low-Risk
+PRV-0726,DME Supplier,Northeast,Out-of-Network,Medium (50-199/yr),0.337,7.51,High-Risk
+PRV-0727,Specialist,Southeast,Out-of-Network,Very High (500+/yr),0.133,7.85,Low-Risk
+PRV-0728,Specialist,Midwest,In-Network,High (200-499/yr),0.194,1.27,Moderate-Risk
+PRV-0729,Hospital,Northeast,In-Network,High (200-499/yr),0.125,2.87,Low-Risk
+PRV-0730,Surgery Center,West,Out-of-Network,High (200-499/yr),0.181,9.97,Moderate-Risk
+PRV-0731,Specialist,Midwest,Out-of-Network,Low (1-49/yr),0.186,9.07,Moderate-Risk
+PRV-0732,Imaging Center,West,In-Network,High (200-499/yr),0.172,7.93,Moderate-Risk
+PRV-0733,Imaging Center,Southeast,In-Network,High (200-499/yr),0.151,2.76,Moderate-Risk
+PRV-0734,Post-Acute Facility,Southeast,In-Network,Very High (500+/yr),0.266,8.32,Moderate-Risk
+PRV-0735,Imaging Center,Northeast,Out-of-Network,Medium (50-199/yr),0.184,6.04,Moderate-Risk
+PRV-0736,Hospital,Northeast,In-Network,Very High (500+/yr),0.075,3.61,Low-Risk
+PRV-0737,Specialist,Southeast,In-Network,High (200-499/yr),0.153,1.54,Moderate-Risk
+PRV-0738,Primary Care,Midwest,In-Network,Low (1-49/yr),0.286,3.75,Moderate-Risk
+PRV-0739,Surgery Center,Southeast,In-Network,Very High (500+/yr),0.217,3.88,Moderate-Risk
+PRV-0740,Surgery Center,Northeast,In-Network,High (200-499/yr),0.212,2.75,Moderate-Risk
+PRV-0741,DME Supplier,Southeast,In-Network,Low (1-49/yr),0.426,7.17,High-Risk
+PRV-0742,DME Supplier,West,In-Network,Medium (50-199/yr),0.397,7.24,High-Risk
+PRV-0743,DME Supplier,Midwest,In-Network,Low (1-49/yr),0.407,1.83,High-Risk
+PRV-0744,Specialist,Midwest,In-Network,High (200-499/yr),0.111,7.39,Low-Risk
+PRV-0745,Primary Care,Midwest,In-Network,High (200-499/yr),0.184,8.59,Moderate-Risk
+PRV-0746,Hospital,Northeast,In-Network,Very High (500+/yr),0.068,7.62,Low-Risk
+PRV-0747,Post-Acute Facility,Southeast,In-Network,Very High (500+/yr),0.196,1.17,Moderate-Risk
+PRV-0748,Hospital,West,In-Network,High (200-499/yr),0.159,0.65,Moderate-Risk
+PRV-0749,Imaging Center,Northeast,In-Network,Very High (500+/yr),0.136,7.79,Low-Risk
+PRV-0750,Primary Care,West,In-Network,Medium (50-199/yr),0.225,8.23,Moderate-Risk
+PRV-0751,Imaging Center,Midwest,In-Network,Low (1-49/yr),0.151,9.54,Moderate-Risk
+PRV-0752,Surgery Center,Northeast,In-Network,Very High (500+/yr),0.175,3.39,Moderate-Risk
+PRV-0753,Surgery Center,Northeast,In-Network,Medium (50-199/yr),0.083,9.74,Low-Risk
+PRV-0754,Specialist,Southeast,In-Network,High (200-499/yr),0.214,2.32,Moderate-Risk
+PRV-0755,Primary Care,Southeast,Out-of-Network,High (200-499/yr),0.171,0.6,Moderate-Risk
+PRV-0756,Surgery Center,Midwest,In-Network,Medium (50-199/yr),0.215,2.93,Moderate-Risk
+PRV-0757,Primary Care,Northeast,In-Network,Low (1-49/yr),0.175,8.77,Moderate-Risk
+PRV-0758,Primary Care,Northeast,In-Network,Medium (50-199/yr),0.173,1.55,Moderate-Risk
+PRV-0759,Specialist,Southwest,In-Network,Medium (50-199/yr),0.161,1.77,Moderate-Risk
+PRV-0760,Primary Care,Midwest,In-Network,Very High (500+/yr),0.257,2.7,Moderate-Risk
+PRV-0761,Home Health Agency,Midwest,In-Network,High (200-499/yr),0.235,1.31,Moderate-Risk
+PRV-0762,Hospital,West,In-Network,Very High (500+/yr),0.152,7.71,Moderate-Risk
+PRV-0763,Post-Acute Facility,West,In-Network,High (200-499/yr),0.22,5.17,Moderate-Risk
+PRV-0764,Imaging Center,Northeast,In-Network,Medium (50-199/yr),0.141,4.91,Low-Risk
+PRV-0765,Specialist,Northeast,Out-of-Network,High (200-499/yr),0.242,2.62,Moderate-Risk
+PRV-0766,Imaging Center,Southeast,In-Network,Medium (50-199/yr),0.169,0.87,Moderate-Risk
+PRV-0767,Hospital,Midwest,In-Network,High (200-499/yr),0.126,5.34,Low-Risk
+PRV-0768,DME Supplier,West,In-Network,High (200-499/yr),0.361,1.58,High-Risk
+PRV-0769,Imaging Center,West,In-Network,High (200-499/yr),0.176,7.9,Moderate-Risk
+PRV-0770,Primary Care,West,In-Network,High (200-499/yr),0.127,5.1,Low-Risk
+PRV-0771,Hospital,Midwest,In-Network,High (200-499/yr),0.093,5.62,Low-Risk
+PRV-0772,Hospital,Northeast,Out-of-Network,Very High (500+/yr),0.136,8.36,Low-Risk
+PRV-0773,Surgery Center,Southeast,In-Network,High (200-499/yr),0.187,3.5,Moderate-Risk
+PRV-0774,Specialist,West,Out-of-Network,High (200-499/yr),0.174,0.58,Moderate-Risk
+PRV-0775,Home Health Agency,Northeast,In-Network,Very High (500+/yr),0.298,4.86,Moderate-Risk
+PRV-0776,Surgery Center,Southeast,In-Network,High (200-499/yr),0.106,3.81,Low-Risk
+PRV-0777,Hospital,Southeast,In-Network,High (200-499/yr),0.078,0.84,Low-Risk
+PRV-0778,Primary Care,Midwest,In-Network,High (200-499/yr),0.285,7.14,Moderate-Risk
+PRV-0779,Imaging Center,Midwest,In-Network,Very High (500+/yr),0.154,6.62,Moderate-Risk
+PRV-0780,DME Supplier,Northeast,Out-of-Network,Very High (500+/yr),0.234,7.53,Moderate-Risk
+PRV-0781,Imaging Center,West,In-Network,High (200-499/yr),0.1,7.68,Low-Risk
+PRV-0782,Hospital,Northeast,In-Network,Medium (50-199/yr),0.149,4.32,Low-Risk
+PRV-0783,Surgery Center,Midwest,Out-of-Network,High (200-499/yr),0.131,3.16,Low-Risk
+PRV-0784,Post-Acute Facility,Southeast,In-Network,High (200-499/yr),0.124,5.09,Low-Risk
+PRV-0785,Imaging Center,West,In-Network,Medium (50-199/yr),0.116,3.28,Low-Risk
+PRV-0786,DME Supplier,Southeast,In-Network,Low (1-49/yr),0.44,4.97,High-Risk
+PRV-0787,Specialist,Southeast,In-Network,Medium (50-199/yr),0.103,2.69,Low-Risk
+PRV-0788,Specialist,Southeast,In-Network,Low (1-49/yr),0.183,7.97,Moderate-Risk
+PRV-0789,Specialist,Southeast,In-Network,Medium (50-199/yr),0.144,5.54,Low-Risk
+PRV-0790,Behavioral Health,Southeast,In-Network,High (200-499/yr),0.26,6.95,Moderate-Risk
+PRV-0791,Primary Care,West,In-Network,Low (1-49/yr),0.235,9.83,Moderate-Risk
+PRV-0792,Primary Care,Southwest,Out-of-Network,High (200-499/yr),0.2,5.95,Moderate-Risk
+PRV-0793,Hospital,Southeast,In-Network,High (200-499/yr),0.159,5.51,Moderate-Risk
+PRV-0794,Specialist,Northeast,In-Network,Medium (50-199/yr),0.268,9.79,Moderate-Risk
+PRV-0795,Specialist,West,In-Network,Very High (500+/yr),0.145,8.25,Low-Risk
+PRV-0796,Specialist,Southeast,In-Network,Medium (50-199/yr),0.242,8.26,Moderate-Risk
+PRV-0797,Specialist,Southwest,In-Network,Medium (50-199/yr),0.144,7.42,Low-Risk
+PRV-0798,Specialist,Southeast,In-Network,Very High (500+/yr),0.26,8.22,Moderate-Risk
+PRV-0799,Home Health Agency,Northeast,In-Network,Medium (50-199/yr),0.288,6.67,Moderate-Risk
+PRV-0800,Specialist,Southeast,In-Network,Very High (500+/yr),0.122,1.58,Low-Risk
+PRV-0801,DME Supplier,Northeast,In-Network,Medium (50-199/yr),0.425,1.47,High-Risk
+PRV-0802,Primary Care,West,In-Network,Medium (50-199/yr),0.237,1.72,Moderate-Risk
+PRV-0803,Specialist,Midwest,In-Network,Medium (50-199/yr),0.221,9.31,Moderate-Risk
+PRV-0804,Surgery Center,Southeast,In-Network,High (200-499/yr),0.212,3.02,Moderate-Risk
+PRV-0805,Specialist,West,In-Network,Medium (50-199/yr),0.239,7.01,Moderate-Risk
+PRV-0806,Surgery Center,Southeast,In-Network,High (200-499/yr),0.167,4.42,Moderate-Risk
+PRV-0807,Surgery Center,Southeast,In-Network,Very High (500+/yr),0.155,7.75,Moderate-Risk
+PRV-0808,Behavioral Health,Southeast,In-Network,Very High (500+/yr),0.171,6.59,Moderate-Risk
+PRV-0809,Hospital,Midwest,In-Network,High (200-499/yr),0.119,6.74,Low-Risk
+PRV-0810,Home Health Agency,Northeast,In-Network,Low (1-49/yr),0.187,6.14,Moderate-Risk
+PRV-0811,DME Supplier,West,In-Network,Medium (50-199/yr),0.328,6.47,High-Risk
+PRV-0812,DME Supplier,Southeast,Out-of-Network,Medium (50-199/yr),0.243,5.21,Moderate-Risk
+PRV-0813,Specialist,Northeast,In-Network,High (200-499/yr),0.189,8.97,Moderate-Risk
+PRV-0814,DME Supplier,West,In-Network,Medium (50-199/yr),0.402,9.16,High-Risk
+PRV-0815,Hospital,Southeast,In-Network,Very High (500+/yr),0.086,3.21,Low-Risk
+PRV-0816,Post-Acute Facility,Midwest,In-Network,Medium (50-199/yr),0.222,4.56,Moderate-Risk
+PRV-0817,Primary Care,Midwest,In-Network,Low (1-49/yr),0.129,9.28,Low-Risk
+PRV-0818,Hospital,Southwest,In-Network,High (200-499/yr),0.121,8.16,Low-Risk
+PRV-0819,Primary Care,West,In-Network,High (200-499/yr),0.209,5.84,Moderate-Risk
+PRV-0820,Post-Acute Facility,Southeast,In-Network,High (200-499/yr),0.276,1.83,Moderate-Risk
+PRV-0821,Specialist,Northeast,In-Network,Low (1-49/yr),0.252,8.19,Moderate-Risk
+PRV-0822,Hospital,Northeast,In-Network,High (200-499/yr),0.076,5.95,Low-Risk
+PRV-0823,Behavioral Health,Northeast,In-Network,High (200-499/yr),0.257,2.9,Moderate-Risk
+PRV-0824,Specialist,Northeast,In-Network,Medium (50-199/yr),0.201,8.98,Moderate-Risk
+PRV-0825,Specialist,Midwest,In-Network,Medium (50-199/yr),0.186,2.57,Moderate-Risk
+PRV-0826,Hospital,Midwest,In-Network,High (200-499/yr),0.134,6.05,Low-Risk
+PRV-0827,Specialist,Midwest,Out-of-Network,High (200-499/yr),0.214,9.41,Moderate-Risk
+PRV-0828,Imaging Center,West,In-Network,Medium (50-199/yr),0.16,7.97,Moderate-Risk
+PRV-0829,Imaging Center,Midwest,In-Network,High (200-499/yr),0.207,8.09,Moderate-Risk
+PRV-0830,Surgery Center,Midwest,In-Network,High (200-499/yr),0.185,7.46,Moderate-Risk
+PRV-0831,DME Supplier,Midwest,In-Network,High (200-499/yr),0.243,8.8,Moderate-Risk
+PRV-0832,Surgery Center,Southeast,In-Network,Very High (500+/yr),0.201,2.67,Moderate-Risk
+PRV-0833,DME Supplier,Northeast,In-Network,Medium (50-199/yr),0.433,9.67,High-Risk
+PRV-0834,Hospital,Southeast,In-Network,High (200-499/yr),0.137,9.22,Low-Risk
+PRV-0835,Hospital,West,In-Network,Very High (500+/yr),0.054,9.27,Low-Risk
+PRV-0836,Hospital,Midwest,In-Network,Medium (50-199/yr),0.098,1.25,Low-Risk
+PRV-0837,Specialist,Northeast,In-Network,Low (1-49/yr),0.103,1.75,Low-Risk
+PRV-0838,Surgery Center,Midwest,In-Network,High (200-499/yr),0.103,3.72,Low-Risk
+PRV-0839,Hospital,West,Out-of-Network,Very High (500+/yr),0.153,4.7,Moderate-Risk
+PRV-0840,Post-Acute Facility,Southeast,In-Network,High (200-499/yr),0.196,2.5,Moderate-Risk
+PRV-0841,Surgery Center,West,Out-of-Network,Very High (500+/yr),0.11,4.84,Low-Risk
+PRV-0842,Primary Care,West,In-Network,Medium (50-199/yr),0.144,7.81,Low-Risk
+PRV-0843,Imaging Center,Northeast,In-Network,Very High (500+/yr),0.091,4.1,Low-Risk
+PRV-0844,Imaging Center,Northeast,In-Network,Low (1-49/yr),0.186,2.89,Moderate-Risk
+PRV-0845,Behavioral Health,Midwest,In-Network,Very High (500+/yr),0.204,9.73,Moderate-Risk
+PRV-0846,Post-Acute Facility,Northeast,Out-of-Network,Very High (500+/yr),0.182,5.03,Moderate-Risk
+PRV-0847,Specialist,Midwest,In-Network,Medium (50-199/yr),0.105,1.12,Low-Risk
+PRV-0848,Imaging Center,West,In-Network,Very High (500+/yr),0.084,6.42,Low-Risk
+PRV-0849,DME Supplier,West,In-Network,High (200-499/yr),0.317,1.74,High-Risk
+PRV-0850,Imaging Center,West,In-Network,Very High (500+/yr),0.107,5.41,Low-Risk
+PRV-0851,Specialist,Midwest,In-Network,Medium (50-199/yr),0.276,9.98,Moderate-Risk
+PRV-0852,Surgery Center,Midwest,In-Network,High (200-499/yr),0.196,7.3,Moderate-Risk
+PRV-0853,Specialist,Northeast,In-Network,Medium (50-199/yr),0.111,5.04,Low-Risk
+PRV-0854,DME Supplier,Midwest,In-Network,Low (1-49/yr),0.436,3.15,High-Risk
+PRV-0855,Specialist,Southeast,In-Network,High (200-499/yr),0.207,0.86,Moderate-Risk
+PRV-0856,Specialist,Midwest,In-Network,Medium (50-199/yr),0.114,6.43,Low-Risk
+PRV-0857,Primary Care,Southeast,In-Network,Low (1-49/yr),0.29,0.78,Moderate-Risk
+PRV-0858,Specialist,Midwest,In-Network,Very High (500+/yr),0.102,4.62,Low-Risk
+PRV-0859,Specialist,Southeast,In-Network,Very High (500+/yr),0.209,9.57,Moderate-Risk
+PRV-0860,Primary Care,Northeast,In-Network,Medium (50-199/yr),0.142,6.44,Low-Risk
+PRV-0861,Hospital,West,In-Network,Very High (500+/yr),0.134,6.99,Low-Risk
+PRV-0862,Hospital,Midwest,In-Network,Very High (500+/yr),0.179,3.68,Moderate-Risk
+PRV-0863,Hospital,West,In-Network,High (200-499/yr),0.158,6.41,Moderate-Risk
+PRV-0864,Surgery Center,Southeast,In-Network,Medium (50-199/yr),0.098,5.63,Low-Risk
+PRV-0865,Specialist,Southeast,Out-of-Network,Medium (50-199/yr),0.238,2.65,Moderate-Risk
+PRV-0866,Imaging Center,Northeast,Out-of-Network,Medium (50-199/yr),0.187,2.96,Moderate-Risk
+PRV-0867,Hospital,Southeast,In-Network,Very High (500+/yr),0.064,3.31,Low-Risk
+PRV-0868,DME Supplier,Northeast,In-Network,High (200-499/yr),0.415,9.25,High-Risk
+PRV-0869,Surgery Center,West,In-Network,High (200-499/yr),0.204,9.0,Moderate-Risk
+PRV-0870,Imaging Center,Midwest,In-Network,High (200-499/yr),0.203,9.39,Moderate-Risk
+PRV-0871,DME Supplier,Southeast,In-Network,Medium (50-199/yr),0.437,9.6,High-Risk
+PRV-0872,Specialist,Southeast,In-Network,Very High (500+/yr),0.171,9.79,Moderate-Risk
+PRV-0873,Hospital,Southeast,In-Network,High (200-499/yr),0.062,5.61,Low-Risk
+PRV-0874,DME Supplier,Northeast,In-Network,Medium (50-199/yr),0.254,5.96,Moderate-Risk
+PRV-0875,DME Supplier,Southeast,In-Network,High (200-499/yr),0.227,5.45,Moderate-Risk
+PRV-0876,Specialist,West,In-Network,Very High (500+/yr),0.261,0.64,Moderate-Risk
+PRV-0877,Hospital,Midwest,In-Network,Very High (500+/yr),0.088,1.15,Low-Risk
+PRV-0878,Imaging Center,Midwest,Out-of-Network,High (200-499/yr),0.143,9.05,Low-Risk
+PRV-0879,Post-Acute Facility,West,In-Network,Medium (50-199/yr),0.145,9.62,Low-Risk
+PRV-0880,Surgery Center,West,Out-of-Network,Medium (50-199/yr),0.213,7.87,Moderate-Risk
+PRV-0881,Specialist,West,Out-of-Network,Very High (500+/yr),0.166,1.97,Moderate-Risk
+PRV-0882,Specialist,Southeast,In-Network,High (200-499/yr),0.105,5.97,Low-Risk
+PRV-0883,Primary Care,Midwest,In-Network,Medium (50-199/yr),0.141,7.87,Low-Risk
+PRV-0884,Hospital,Midwest,In-Network,Very High (500+/yr),0.051,8.79,Low-Risk
+PRV-0885,Post-Acute Facility,Midwest,In-Network,Medium (50-199/yr),0.266,9.56,Moderate-Risk
+PRV-0886,Specialist,West,Out-of-Network,Medium (50-199/yr),0.262,8.31,Moderate-Risk
+PRV-0887,Hospital,Midwest,In-Network,High (200-499/yr),0.135,9.39,Low-Risk
+PRV-0888,Hospital,West,In-Network,Very High (500+/yr),0.166,8.13,Moderate-Risk
+PRV-0889,Primary Care,Northeast,In-Network,Medium (50-199/yr),0.125,5.24,Low-Risk
+PRV-0890,Post-Acute Facility,Southeast,In-Network,Medium (50-199/yr),0.138,0.8,Low-Risk
+PRV-0891,Specialist,Midwest,In-Network,High (200-499/yr),0.15,9.92,Low-Risk
+PRV-0892,DME Supplier,Southeast,In-Network,Medium (50-199/yr),0.271,6.55,Moderate-Risk
+PRV-0893,DME Supplier,Midwest,In-Network,Medium (50-199/yr),0.295,8.81,Moderate-Risk
+PRV-0894,Post-Acute Facility,West,In-Network,High (200-499/yr),0.281,7.52,Moderate-Risk
+PRV-0895,Hospital,Southeast,In-Network,Very High (500+/yr),0.099,3.26,Low-Risk
+PRV-0896,Imaging Center,Northeast,In-Network,Low (1-49/yr),0.15,8.88,Low-Risk
+PRV-0897,Surgery Center,Midwest,In-Network,High (200-499/yr),0.115,2.14,Low-Risk
+PRV-0898,Specialist,Northeast,In-Network,High (200-499/yr),0.146,2.45,Low-Risk
+PRV-0899,Specialist,Midwest,In-Network,Very High (500+/yr),0.257,9.22,Moderate-Risk
+PRV-0900,Specialist,Southeast,In-Network,Low (1-49/yr),0.201,2.51,Moderate-Risk
+PRV-0901,Home Health Agency,Midwest,Out-of-Network,Low (1-49/yr),0.282,2.96,Moderate-Risk
+PRV-0902,Primary Care,Southeast,In-Network,Very High (500+/yr),0.196,8.36,Moderate-Risk
+PRV-0903,Hospital,Midwest,In-Network,Very High (500+/yr),0.145,3.32,Low-Risk
+PRV-0904,Hospital,Northeast,In-Network,High (200-499/yr),0.127,7.01,Low-Risk
+PRV-0905,Primary Care,Southeast,In-Network,High (200-499/yr),0.187,6.84,Moderate-Risk
+PRV-0906,Imaging Center,West,In-Network,Very High (500+/yr),0.194,4.16,Moderate-Risk
+PRV-0907,DME Supplier,Midwest,In-Network,Medium (50-199/yr),0.32,5.25,High-Risk
+PRV-0908,Primary Care,Midwest,In-Network,High (200-499/yr),0.182,8.86,Moderate-Risk
+PRV-0909,Post-Acute Facility,Southeast,In-Network,High (200-499/yr),0.133,5.43,Low-Risk
+PRV-0910,Imaging Center,West,In-Network,High (200-499/yr),0.163,3.34,Moderate-Risk
+PRV-0911,Hospital,Midwest,In-Network,High (200-499/yr),0.072,7.08,Low-Risk
+PRV-0912,Hospital,Midwest,In-Network,Very High (500+/yr),0.129,2.71,Low-Risk
+PRV-0913,Imaging Center,Northeast,In-Network,Medium (50-199/yr),0.19,1.83,Moderate-Risk
+PRV-0914,Hospital,Northeast,In-Network,High (200-499/yr),0.175,8.73,Moderate-Risk
+PRV-0915,Hospital,Midwest,Out-of-Network,Medium (50-199/yr),0.057,8.3,Low-Risk
+PRV-0916,Specialist,Northeast,In-Network,Very High (500+/yr),0.248,8.75,Moderate-Risk
+PRV-0917,Hospital,Midwest,In-Network,High (200-499/yr),0.053,5.47,Low-Risk
+PRV-0918,Hospital,Northeast,In-Network,High (200-499/yr),0.067,3.76,Low-Risk
+PRV-0919,Hospital,Southeast,In-Network,Very High (500+/yr),0.104,9.56,Low-Risk
+PRV-0920,Specialist,Midwest,In-Network,High (200-499/yr),0.113,6.68,Low-Risk
+PRV-0921,Imaging Center,Southeast,Out-of-Network,High (200-499/yr),0.21,9.57,Moderate-Risk
+PRV-0922,Post-Acute Facility,Midwest,In-Network,Very High (500+/yr),0.198,8.49,Moderate-Risk
+PRV-0923,Surgery Center,Southwest,In-Network,High (200-499/yr),0.161,2.88,Moderate-Risk
+PRV-0924,Imaging Center,West,In-Network,Medium (50-199/yr),0.155,0.94,Moderate-Risk
+PRV-0925,Specialist,Northeast,In-Network,High (200-499/yr),0.211,7.48,Moderate-Risk
+PRV-0926,Specialist,Southeast,In-Network,Very High (500+/yr),0.255,7.18,Moderate-Risk
+PRV-0927,Specialist,Midwest,In-Network,Very High (500+/yr),0.135,1.81,Low-Risk
+PRV-0928,Imaging Center,West,In-Network,Medium (50-199/yr),0.131,4.62,Low-Risk
+PRV-0929,Imaging Center,Northeast,In-Network,Very High (500+/yr),0.197,0.54,Moderate-Risk
+PRV-0930,Surgery Center,West,In-Network,Very High (500+/yr),0.21,1.05,Moderate-Risk
+PRV-0931,Primary Care,Southwest,In-Network,High (200-499/yr),0.232,8.45,Moderate-Risk
+PRV-0932,Specialist,Northeast,In-Network,High (200-499/yr),0.272,7.87,Moderate-Risk
+PRV-0933,Primary Care,Midwest,Out-of-Network,High (200-499/yr),0.235,7.44,Moderate-Risk
+PRV-0934,Hospital,Midwest,In-Network,Very High (500+/yr),0.157,2.24,Moderate-Risk
+PRV-0935,Specialist,Southeast,In-Network,High (200-499/yr),0.17,6.22,Moderate-Risk
+PRV-0936,Behavioral Health,Southeast,In-Network,Medium (50-199/yr),0.176,4.14,Moderate-Risk
+PRV-0937,Hospital,Southeast,In-Network,Medium (50-199/yr),0.138,6.61,Low-Risk
+PRV-0938,Hospital,Midwest,In-Network,Very High (500+/yr),0.173,6.89,Moderate-Risk
+PRV-0939,DME Supplier,Midwest,In-Network,High (200-499/yr),0.215,9.51,Moderate-Risk
+PRV-0940,Specialist,West,In-Network,Low (1-49/yr),0.15,7.51,Low-Risk
+PRV-0941,Specialist,Midwest,Out-of-Network,Low (1-49/yr),0.133,5.87,Low-Risk
+PRV-0942,Primary Care,Northeast,Out-of-Network,Medium (50-199/yr),0.124,2.42,Low-Risk
+PRV-0943,Specialist,Northeast,In-Network,High (200-499/yr),0.212,2.74,Moderate-Risk
+PRV-0944,Hospital,Northeast,In-Network,Very High (500+/yr),0.14,5.01,Low-Risk
+PRV-0945,Surgery Center,Southeast,In-Network,High (200-499/yr),0.149,4.66,Low-Risk
+PRV-0946,Hospital,Southeast,In-Network,High (200-499/yr),0.112,1.51,Low-Risk
+PRV-0947,Imaging Center,Southeast,In-Network,Very High (500+/yr),0.094,8.97,Low-Risk
+PRV-0948,Specialist,Southwest,In-Network,High (200-499/yr),0.139,3.03,Low-Risk
+PRV-0949,Imaging Center,Northeast,In-Network,Medium (50-199/yr),0.087,6.6,Low-Risk
+PRV-0950,Specialist,Midwest,In-Network,Very High (500+/yr),0.146,4.65,Low-Risk
+PRV-0951,Imaging Center,Midwest,Out-of-Network,High (200-499/yr),0.2,5.29,Moderate-Risk
+PRV-0952,DME Supplier,Southeast,Out-of-Network,Medium (50-199/yr),0.403,5.87,High-Risk
+PRV-0953,DME Supplier,Northeast,In-Network,Medium (50-199/yr),0.351,1.56,High-Risk
+PRV-0954,Surgery Center,Midwest,In-Network,High (200-499/yr),0.101,7.98,Low-Risk
+PRV-0955,Hospital,Southeast,In-Network,Medium (50-199/yr),0.137,8.0,Low-Risk
+PRV-0956,Specialist,Northeast,In-Network,Medium (50-199/yr),0.269,7.21,Moderate-Risk
+PRV-0957,DME Supplier,Northeast,In-Network,Medium (50-199/yr),0.38,3.12,High-Risk
+PRV-0958,Hospital,Southeast,In-Network,Very High (500+/yr),0.101,2.5,Low-Risk
+PRV-0959,Specialist,Southeast,In-Network,Very High (500+/yr),0.24,1.9,Moderate-Risk
+PRV-0960,Surgery Center,Midwest,In-Network,High (200-499/yr),0.217,1.93,Moderate-Risk
+PRV-0961,Post-Acute Facility,Midwest,In-Network,High (200-499/yr),0.292,4.89,Moderate-Risk
+PRV-0962,Specialist,West,Out-of-Network,Very High (500+/yr),0.213,3.54,Moderate-Risk
+PRV-0963,Imaging Center,Northeast,In-Network,Very High (500+/yr),0.088,2.57,Low-Risk
+PRV-0964,Specialist,Midwest,In-Network,Very High (500+/yr),0.206,9.77,Moderate-Risk
+PRV-0965,Hospital,West,Out-of-Network,High (200-499/yr),0.145,8.9,Low-Risk
+PRV-0966,Hospital,Southeast,In-Network,High (200-499/yr),0.098,3.44,Low-Risk
+PRV-0967,Imaging Center,West,In-Network,Medium (50-199/yr),0.084,2.59,Low-Risk
+PRV-0968,Surgery Center,West,In-Network,High (200-499/yr),0.195,4.42,Moderate-Risk
+PRV-0969,DME Supplier,Northeast,In-Network,High (200-499/yr),0.271,4.4,Moderate-Risk
+PRV-0970,Specialist,Southeast,Out-of-Network,Medium (50-199/yr),0.122,7.68,Low-Risk
+PRV-0971,Primary Care,Midwest,Out-of-Network,Low (1-49/yr),0.213,4.26,Moderate-Risk
+PRV-0972,Surgery Center,Southeast,In-Network,Very High (500+/yr),0.13,3.61,Low-Risk
+PRV-0973,Hospital,West,Out-of-Network,Very High (500+/yr),0.055,2.67,Low-Risk
+PRV-0974,Specialist,Midwest,In-Network,Medium (50-199/yr),0.234,3.08,Moderate-Risk
+PRV-0975,Hospital,Northeast,Out-of-Network,Low (1-49/yr),0.068,1.71,Low-Risk
+PRV-0976,Specialist,West,In-Network,Medium (50-199/yr),0.148,8.47,Low-Risk
+PRV-0977,Specialist,Southeast,In-Network,Medium (50-199/yr),0.215,1.17,Moderate-Risk
+PRV-0978,Specialist,Northeast,In-Network,Medium (50-199/yr),0.177,0.94,Moderate-Risk
+PRV-0979,Specialist,Midwest,In-Network,Medium (50-199/yr),0.242,0.65,Moderate-Risk
+PRV-0980,Primary Care,Southeast,Out-of-Network,High (200-499/yr),0.185,2.31,Moderate-Risk
+PRV-0981,Specialist,Northeast,Out-of-Network,Medium (50-199/yr),0.209,6.84,Moderate-Risk
+PRV-0982,Post-Acute Facility,Midwest,In-Network,Very High (500+/yr),0.222,8.15,Moderate-Risk
+PRV-0983,Surgery Center,Northeast,In-Network,Very High (500+/yr),0.173,5.68,Moderate-Risk
+PRV-0984,Imaging Center,Southeast,In-Network,Very High (500+/yr),0.11,4.85,Low-Risk
+PRV-0985,Surgery Center,Midwest,In-Network,Very High (500+/yr),0.087,4.29,Low-Risk
+PRV-0986,Behavioral Health,Midwest,In-Network,Medium (50-199/yr),0.18,7.0,Moderate-Risk
+PRV-0987,Specialist,Southeast,In-Network,High (200-499/yr),0.274,2.01,Moderate-Risk
+PRV-0988,Surgery Center,Midwest,In-Network,High (200-499/yr),0.13,2.22,Low-Risk
+PRV-0989,Primary Care,West,In-Network,High (200-499/yr),0.197,5.87,Moderate-Risk
+PRV-0990,DME Supplier,Northeast,In-Network,High (200-499/yr),0.253,8.24,Moderate-Risk
+PRV-0991,Imaging Center,West,In-Network,Medium (50-199/yr),0.168,5.63,Moderate-Risk
+PRV-0992,Surgery Center,Northeast,In-Network,High (200-499/yr),0.18,4.94,Moderate-Risk
+PRV-0993,Specialist,Midwest,In-Network,Medium (50-199/yr),0.221,9.79,Moderate-Risk
+PRV-0994,Hospital,West,In-Network,High (200-499/yr),0.064,7.42,Low-Risk
+PRV-0995,Hospital,West,In-Network,Very High (500+/yr),0.121,5.27,Low-Risk
+PRV-0996,Imaging Center,Midwest,Out-of-Network,High (200-499/yr),0.186,9.46,Moderate-Risk
+PRV-0997,Surgery Center,Midwest,Out-of-Network,Very High (500+/yr),0.104,8.95,Low-Risk
+PRV-0998,Primary Care,Midwest,Out-of-Network,High (200-499/yr),0.242,3.92,Moderate-Risk
+PRV-0999,Imaging Center,Southeast,In-Network,High (200-499/yr),0.14,6.84,Low-Risk
+PRV-1000,Hospital,Southeast,In-Network,Very High (500+/yr),0.161,8.75,Moderate-Risk

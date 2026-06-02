@@ -1,0 +1,31 @@
+feature,importance,model,target,importance_type
+auto_eligible,1.4942709793656794,Gradient Boosting,delayed_flag,SHAP mean |value|
+documentation_complete,0.6098552931791943,Gradient Boosting,delayed_flag,SHAP mean |value|
+submission_channel_Fax,0.1666274605640714,Gradient Boosting,delayed_flag,SHAP mean |value|
+request_type_Standard,0.1607840371811866,Gradient Boosting,delayed_flag,SHAP mean |value|
+request_type_Expedited,0.1290604620183378,Gradient Boosting,delayed_flag,SHAP mean |value|
+submission_channel_Electronic,0.0590251036111796,Gradient Boosting,delayed_flag,SHAP mean |value|
+estimated_cost,0.0468671185295431,Gradient Boosting,delayed_flag,SHAP mean |value|
+avg_incomplete_submission_rate,0.040100508168928,Gradient Boosting,delayed_flag,SHAP mean |value|
+avg_response_time_days,0.0372191899444416,Gradient Boosting,delayed_flag,SHAP mean |value|
+submission_channel_Phone,0.0346188799205151,Gradient Boosting,delayed_flag,SHAP mean |value|
+chronic_condition_count,0.0296304653701981,Gradient Boosting,delayed_flag,SHAP mean |value|
+member_tenure_months,0.026659102380767,Gradient Boosting,delayed_flag,SHAP mean |value|
+provider_type_Surgery Center,0.0198169189091876,Gradient Boosting,delayed_flag,SHAP mean |value|
+submitted_day_of_week_Monday,0.0135507456070841,Gradient Boosting,delayed_flag,SHAP mean |value|
+procedure_group_Inpatient Medical Admission,0.0126120439568862,Gradient Boosting,delayed_flag,SHAP mean |value|
+documentation_complete,0.3481772318119466,Gradient Boosting,denied_flag,SHAP mean |value|
+auto_eligible,0.242096323262754,Gradient Boosting,denied_flag,SHAP mean |value|
+clinical_review_required,0.1538604492207532,Gradient Boosting,denied_flag,SHAP mean |value|
+previous_denial_history,0.1168316840126575,Gradient Boosting,denied_flag,SHAP mean |value|
+avg_incomplete_submission_rate,0.1167205476474014,Gradient Boosting,denied_flag,SHAP mean |value|
+network_status_Out-of-Network,0.0714613709239784,Gradient Boosting,denied_flag,SHAP mean |value|
+estimated_cost,0.0620855809442287,Gradient Boosting,denied_flag,SHAP mean |value|
+network_status_In-Network,0.055470231318715,Gradient Boosting,denied_flag,SHAP mean |value|
+service_category_Post-Acute / SNF,0.0535146259971527,Gradient Boosting,denied_flag,SHAP mean |value|
+service_category_Outpatient Procedures,0.0503051985648746,Gradient Boosting,denied_flag,SHAP mean |value|
+submission_channel_Fax,0.0467155147245372,Gradient Boosting,denied_flag,SHAP mean |value|
+member_tenure_months,0.0405284657439211,Gradient Boosting,denied_flag,SHAP mean |value|
+avg_response_time_days,0.0400315254225774,Gradient Boosting,denied_flag,SHAP mean |value|
+service_category_Inpatient Hospital,0.038673682810197,Gradient Boosting,denied_flag,SHAP mean |value|
+procedure_group_Spine Surgery,0.0250757097493538,Gradient Boosting,denied_flag,SHAP mean |value|

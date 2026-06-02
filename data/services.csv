@@ -1,0 +1,41 @@
+service_id,service_category,procedure_group,prior_auth_required,clinical_review_required,automation_eligible,base_cost_min,base_cost_max,base_denial_risk,base_delay_risk
+SVC-001,Advanced Imaging,MRI Brain/Spine,True,True,False,800,3500,0.12,0.18
+SVC-002,Advanced Imaging,CT Scan Abdomen/Pelvis,True,True,False,600,2800,0.11,0.17
+SVC-003,Advanced Imaging,PET Scan Oncology,True,True,False,2500,8000,0.13,0.2
+SVC-004,Advanced Imaging,Nuclear Medicine Study,True,True,False,1200,4500,0.12,0.18
+SVC-005,Inpatient Hospital,Inpatient Medical Admission,True,True,False,5000,35000,0.13,0.2
+SVC-006,Inpatient Hospital,Inpatient Surgical Admission,True,True,False,8000,50000,0.14,0.22
+SVC-007,Inpatient Hospital,ICU / Critical Care Admission,True,True,False,10000,50000,0.12,0.19
+SVC-008,Inpatient Hospital,Inpatient Psychiatric Admission,True,True,False,4000,20000,0.13,0.2
+SVC-009,Post-Acute / SNF,Skilled Nursing Facility Stay,True,True,False,3000,15000,0.16,0.22
+SVC-010,Post-Acute / SNF,Inpatient Rehabilitation,True,True,False,5000,25000,0.17,0.24
+SVC-011,Post-Acute / SNF,Long-Term Acute Care (LTACH),True,True,False,8000,40000,0.16,0.23
+SVC-012,Post-Acute / SNF,Sub-Acute Rehabilitation,True,True,False,2500,12000,0.15,0.21
+SVC-013,Surgical Procedures,Orthopedic Surgery (Knee/Hip),True,True,False,10000,40000,0.1,0.15
+SVC-014,Surgical Procedures,Spine Surgery,True,True,False,15000,60000,0.12,0.17
+SVC-015,Surgical Procedures,Bariatric Surgery,True,True,False,12000,35000,0.11,0.16
+SVC-016,Surgical Procedures,Cardiac Catheterization,True,True,False,8000,30000,0.09,0.14
+SVC-017,Specialty Drugs,Biologic Infusion Therapy,True,True,False,3000,25000,0.09,0.13
+SVC-018,Specialty Drugs,Chemotherapy Administration,True,True,False,5000,30000,0.08,0.12
+SVC-019,Specialty Drugs,Specialty Injectable (non-chemo),True,True,False,2000,15000,0.09,0.13
+SVC-020,Specialty Drugs,Gene Therapy,True,True,False,50000,200000,0.1,0.15
+SVC-021,Durable Medical Equipment,Power Wheelchair,True,False,True,3000,12000,0.1,0.14
+SVC-022,Durable Medical Equipment,CPAP / BiPAP Device,True,False,True,500,2000,0.08,0.11
+SVC-023,Durable Medical Equipment,Orthotics / Prosthetics,True,True,True,1000,8000,0.1,0.14
+SVC-024,Durable Medical Equipment,Home Oxygen Equipment,True,False,True,200,1200,0.09,0.12
+SVC-025,Outpatient Procedures,Ambulatory Surgery - Minor,True,False,True,500,5000,0.05,0.08
+SVC-026,Outpatient Procedures,Endoscopy / Colonoscopy,True,False,True,800,3500,0.05,0.07
+SVC-027,Outpatient Procedures,Outpatient Infusion,True,False,True,400,3000,0.05,0.08
+SVC-028,Outpatient Procedures,Radiation Therapy Course,True,True,False,5000,25000,0.07,0.1
+SVC-029,Behavioral Health,Residential Mental Health,True,True,False,2000,15000,0.08,0.12
+SVC-030,Behavioral Health,Intensive Outpatient Program,True,False,True,500,4000,0.07,0.1
+SVC-031,Behavioral Health,Substance Use Disorder Treatment,True,False,True,1000,8000,0.08,0.11
+SVC-032,Behavioral Health,Applied Behavior Analysis (ABA),True,True,True,2000,10000,0.09,0.13
+SVC-033,Physical/Occupational Therapy,Physical Therapy Extended Course,True,False,True,500,4000,0.06,0.09
+SVC-034,Physical/Occupational Therapy,Occupational Therapy Program,True,False,True,400,3500,0.06,0.08
+SVC-035,Physical/Occupational Therapy,Speech-Language Pathology,True,False,True,300,3000,0.05,0.08
+SVC-036,Physical/Occupational Therapy,Cardiac Rehabilitation Program,True,False,True,1000,5000,0.06,0.09
+SVC-037,Home Health,Skilled Nursing Home Visits,True,False,True,500,5000,0.09,0.14
+SVC-038,Home Health,Home Physical Therapy,True,False,True,300,3000,0.08,0.12
+SVC-039,Home Health,Home Infusion Therapy,True,True,True,1000,10000,0.1,0.14
+SVC-040,Home Health,Hospice Care Authorization,True,True,False,2000,12000,0.09,0.13

@@ -1,0 +1,142 @@
+{
+  "name": "PAIS Healthcare Payer Theme",
+  "dataColors": [
+    "#0057A8",
+    "#27AE60",
+    "#F39C12",
+    "#C0392B",
+    "#5DADE2",
+    "#1A5276",
+    "#58D68D",
+    "#E74C3C",
+    "#F8C471",
+    "#2980B9"
+  ],
+  "background": "#F4F6F9",
+  "foreground": "#2C3E50",
+  "tableAccent": "#0057A8",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "fontFamily": [{ "value": "Segoe UI" }],
+        "fontSize": [{ "value": 11 }],
+        "color": [{ "solid": { "color": "#2C3E50" } }]
+      }
+    },
+    "card": {
+      "*": {
+        "background": [{ "solid": { "color": "#FFFFFF" } }],
+        "border": [{ "show": true }],
+        "borderColor": [{ "solid": { "color": "#D5D8DC" } }],
+        "titleFontSize": [{ "value": 11 }],
+        "dataLabelFontSize": [{ "value": 28 }]
+      }
+    },
+    "columnChart": {
+      "*": {
+        "background": [{ "solid": { "color": "#FFFFFF" } }],
+        "gridlineColor": [{ "solid": { "color": "#E8EAED" } }]
+      }
+    },
+    "barChart": {
+      "*": {
+        "background": [{ "solid": { "color": "#FFFFFF" } }],
+        "gridlineColor": [{ "solid": { "color": "#E8EAED" } }]
+      }
+    },
+    "lineChart": {
+      "*": {
+        "background": [{ "solid": { "color": "#FFFFFF" } }],
+        "gridlineColor": [{ "solid": { "color": "#E8EAED" } }]
+      }
+    },
+    "donutChart": {
+      "*": {
+        "background": [{ "solid": { "color": "#FFFFFF" } }]
+      }
+    },
+    "gauge": {
+      "*": {
+        "background": [{ "solid": { "color": "#FFFFFF" } }],
+        "needleColor": [{ "solid": { "color": "#0057A8" } }],
+        "targetColor": [{ "solid": { "color": "#2C3E50" } }]
+      }
+    },
+    "tableEx": {
+      "*": {
+        "background": [{ "solid": { "color": "#FFFFFF" } }],
+        "gridColor": [{ "solid": { "color": "#E8EAED" } }],
+        "headerFontColor": [{ "solid": { "color": "#FFFFFF" } }],
+        "headerBackground": [{ "solid": { "color": "#0057A8" } }],
+        "alternatingRowColor": [{ "solid": { "color": "#F4F6F9" } }]
+      }
+    },
+    "matrix": {
+      "*": {
+        "background": [{ "solid": { "color": "#FFFFFF" } }],
+        "headerBackground": [{ "solid": { "color": "#0057A8" } }],
+        "headerFontColor": [{ "solid": { "color": "#FFFFFF" } }],
+        "gridColor": [{ "solid": { "color": "#E8EAED" } }]
+      }
+    },
+    "funnel": {
+      "*": {
+        "background": [{ "solid": { "color": "#FFFFFF" } }]
+      }
+    },
+    "map": {
+      "*": {
+        "background": [{ "solid": { "color": "#FFFFFF" } }]
+      }
+    },
+    "slicer": {
+      "*": {
+        "background": [{ "solid": { "color": "#FFFFFF" } }],
+        "fontColor": [{ "solid": { "color": "#2C3E50" } }],
+        "selectedColor": [{ "solid": { "color": "#0057A8" } }],
+        "selectedFontColor": [{ "solid": { "color": "#FFFFFF" } }],
+        "borderColor": [{ "solid": { "color": "#D5D8DC" } }]
+      }
+    },
+    "title": {
+      "*": {
+        "fontColor": [{ "solid": { "color": "#2C3E50" } }],
+        "fontSize": [{ "value": 14 }],
+        "fontFamily": [{ "value": "Segoe UI" }],
+        "bold": [{ "value": true }],
+        "background": [{ "solid": { "color": "#F4F6F9" } }]
+      }
+    }
+  },
+  "textClasses": {
+    "callout": {
+      "fontSize": 36,
+      "fontFace": "Segoe UI",
+      "color": "#2C3E50"
+    },
+    "title": {
+      "fontSize": 14,
+      "fontFace": "Segoe UI",
+      "color": "#2C3E50"
+    },
+    "header": {
+      "fontSize": 12,
+      "fontFace": "Segoe UI",
+      "color": "#2C3E50"
+    },
+    "label": {
+      "fontSize": 10,
+      "fontFace": "Segoe UI",
+      "color": "#666666"
+    }
+  },
+  "good": "#27AE60",
+  "neutral": "#F39C12",
+  "bad": "#C0392B",
+  "maximum": "#C0392B",
+  "center": "#F39C12",
+  "minimum": "#27AE60",
+  "null": "#D5D8DC",
+  "diverging": false,
+  "_comment": "PAIS Healthcare Payer Theme — Prior Authorization Intelligence System. Palette: Primary Blue #0057A8 (CMS-style federal blue) | Risk Red #C0392B | Success Green #27AE60 | Warning Amber #F39C12 | Background #F4F6F9 | Text #2C3E50. Import via: Power BI Desktop → View → Themes → Browse for themes → select this file."
+}
