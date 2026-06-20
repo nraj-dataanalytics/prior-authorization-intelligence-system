@@ -1,0 +1,24 @@
+# Prior Authorization Intelligence System — Streamlit Cloud Requirements
+# Python 3.11 (see runtime.txt)
+# Pinned for pickle compatibility with pre-trained models (scikit-learn 1.3.2 / numpy 1.x)
+# DO NOT upgrade scikit-learn or numpy without retraining models.
+
+# Core app
+streamlit==1.35.0
+
+# Data — numpy pinned to 1.x; numpy 2.x breaks sklearn 1.3.x pickle deserialization
+pandas==2.2.2
+numpy==1.26.4
+
+# Machine learning — must match training environment exactly for pickle compatibility
+scikit-learn==1.3.2
+
+# Visualization
+matplotlib==3.8.4
+seaborn==0.13.2
+
+# SHAP — pinned to 0.45.x; shap>=0.46 requires numpy>=2.0 which conflicts above
+shap==0.45.2
+
+# Utilities
+python-dateutil==2.9.0
