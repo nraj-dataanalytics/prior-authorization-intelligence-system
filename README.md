@@ -10,7 +10,7 @@ Prior authorization is a payer-required administrative process in which provider
 
 **The data problem it creates:**
 
-- Medicare Advantage organizations denied **3.4 million** PA requests in 2021 (KFF, 2023)
+- Medicare Advantage plans processed **52.8 million** PA determinations in 2024, with approximately **4.1 million (7.7%)** denied — up from 49.8 million determinations and 3.2 million (6.4%) denials the prior year (KFF analysis of CMS data, 2025)
 - **75% of denied requests that went to appeal were overturned** — suggesting a large fraction of denials are inappropriate at first determination (HHS OIG, 2022)
 - **34% of Medicare Advantage denials** cited "insufficient documentation" — a preventable, operations-driven cause (HHS OIG, 2022)
 - CMS finalized **CMS-0057-F** (January 17, 2024), requiring Medicare Advantage organizations to publicly report 5 PA metrics annually starting March 2026 and to meet 7-day (standard) / 72-hour (expedited) turnaround requirements
@@ -236,6 +236,7 @@ The `app/streamlit_app.py` application is a prior authorization workflow triage 
 2. Runs pre-trained GBM + LR models to produce delay and denial risk scores
 3. Applies 8 rule-based recommendation rules
 4. Displays: risk score cards, top risk drivers, workflow action recommendations, SLA status, and responsible-use disclaimer
+5. **What-If Risk Reduction Simulator:** Simulates operational interventions (documentation completion, channel switch, auto-eligibility) and shows Before vs. After risk scores with rules eliminated — enabling operational "what can we do now to reduce risk?" decision-making
 
 **What it does NOT do:**
 - It does not approve or deny care
@@ -277,12 +278,14 @@ python3 app/train_models.py
 
 ## Screenshots
 
-*Screenshots to be added after app is deployed.*
+Screenshots to be added after local deployment. Run `streamlit run app/streamlit_app.py`, test all 4 scenarios, and save to `assets/app_screenshots/`.
+
+The app includes a **What-If Risk Reduction Simulator** — screenshots should capture the Before vs. After comparison for Scenario A (completing documentation + switching to Electronic eliminates 4 of 7 escalation rules).
 
 | Scenario | Description |
 |----------|-------------|
-| Scenario A | High-Risk SLA Escalation — 7 rules fire simultaneously |
-| Scenario B | Fast-Track Candidate — low delay, auto-eligible, complete docs |
+| Scenario A | High-Risk SLA Breach — 7 rules fire; What-If shows 4 rules eliminated by completing docs + Electronic channel |
+| Scenario B | Fast-Track Candidate — R4 fires, fast-track badge shown |
 | Scenario C | Documentation Follow-Up — provider with 38% incomplete rate |
 | Scenario D | Senior Review Before Denial — prior denial history + OON + high cost |
 
