@@ -276,11 +276,17 @@ python3 app/train_models.py
 
 ---
 
-## Screenshots
+## App Preview
 
-Screenshots to be added after local deployment. Run `streamlit run app/streamlit_app.py`, test all 4 scenarios, and save to `assets/app_screenshots/`.
+The live Streamlit app provides four key views — all driven by the pre-trained GBM + LR models on synthetic data:
 
-The app includes a **What-If Risk Reduction Simulator** — screenshots should capture the Before vs. After comparison for Scenario A (completing documentation + switching to Electronic eliminates 4 of 7 escalation rules).
+**Key screens:**
+- **Risk Assessment** — Delay Risk and Denial Risk score cards with threshold indicators
+- **Recommended Workflow Actions** — Rule-based actions for UM coordinators (8 rules)
+- **SLA & CMS Compliance Status** — CMS-0057-F 7-day / 72-hour window tracking
+- **What-If Simulator** — Before vs. After comparison when simulating doc completion or channel switch
+
+To run locally: `streamlit run app/streamlit_app.py`
 
 | Scenario | Description |
 |----------|-------------|
@@ -307,7 +313,7 @@ Model performance metrics are bounded to the synthetic dataset. Real-world perfo
 
 ## Portfolio / Article
 
-*GitHub Pages portfolio article link — to be added.*
+See the live app and project write-up on [GitHub](https://github.com/nraj-dataanalytics/prior-authorization-intelligence-system).
 
 ---
 
