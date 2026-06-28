@@ -1,28 +1,11 @@
 # Prior Authorization Intelligence System — App Requirements
-# Python 3.12 (see runtime.txt in repo root)
-#
-# RUNTIME PACKAGES ONLY — only what streamlit_app.py and recommendation_rules.py import.
-# shap and seaborn are NOT used in the live app. Training-only deps belong in
-# notebooks/requirements-dev.txt.
-#
+# Runtime packages only. shap and seaborn are NOT imported by the live app.
 # scikit-learn pinned to 1.5.2 — must match training environment exactly.
-# Do NOT upgrade without retraining models from train_models.py.
 
 streamlit>=1.40.0
 pandas>=2.2.0
 numpy>=1.26.4,<2.0
 scikit-learn==1.5.2
 matplotlib>=3.8.0
+Pillow>=10.4.0
 python-dateutil>=2.9.0
-
-# ── Local installation ──────────────────────────────────────────────────────
-# pip install -r requirements.txt
-#
-# ── Run app ─────────────────────────────────────────────────────────────────
-# cd "Prior Authorization Intelligence System"
-# streamlit run app/streamlit_app.py
-#
-# ── Notes ───────────────────────────────────────────────────────────────────
-# Models are pre-trained pickle files in app/models/.
-# Do NOT retrain models inside the app.
-# Python 3.12 required — scikit-learn 1.5.2 pickle files load on Python 3.12.

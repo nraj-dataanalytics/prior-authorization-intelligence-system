@@ -1,17 +1,15 @@
 # Prior Authorization Intelligence System — Streamlit Cloud Requirements
 #
-# RUNTIME PACKAGES ONLY — only what the live app actually imports.
-# shap and seaborn are NOT imported by streamlit_app.py or recommendation_rules.py.
-# Training-only deps (shap, seaborn) belong in notebooks/requirements-dev.txt only.
+# RUNTIME PACKAGES ONLY — only what streamlit_app.py and recommendation_rules.py import.
+# shap and seaborn are NOT imported by the live app.
 #
-# scikit-learn is pinned to 1.5.2 — must match the version used to train and
-# pickle the models in app/models/. Do NOT upgrade without retraining.
-# numpy is pinned below 2.0 as a precaution; sklearn 1.5.2 supports numpy 2.x
-# but the models were built against 1.x and the constraint avoids surprises.
+# scikit-learn is pinned to 1.5.2 — must match the version used to train/pickle
+# the models in app/models/. Do NOT upgrade without retraining.
 
 streamlit>=1.40.0
 pandas>=2.2.0
 numpy>=1.26.4,<2.0
 scikit-learn==1.5.2
 matplotlib>=3.8.0
+Pillow>=10.4.0
 python-dateutil>=2.9.0
